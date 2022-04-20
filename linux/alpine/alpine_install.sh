@@ -6,3 +6,6 @@ apk upgrade
 
 # explorateur de fichiers 
 apk add ranger
+
+# explorateur de fichiers 
+apk add mc
