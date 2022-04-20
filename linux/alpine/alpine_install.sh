@@ -1,18 +1,18 @@
-sudo apk update
-sudo apk upgrade
+apk update
+apk upgrade
 
 ### logiciels ###
 ##    utile    ##
 
 # explorateur de fichiers 
-sudo apk add ranger
+apk add ranger
 # ajouter des couleurs dans le man
-sudo apk add most
+apk add most
 
 ## fun
 
 # colorer le cat 
-sudo apk add lolcat
+apk add lolcat
 # hollywood (des fois fais bugger wsl au moment de l'install)
-sudo apk add hollywood
+apk add hollywood
 
