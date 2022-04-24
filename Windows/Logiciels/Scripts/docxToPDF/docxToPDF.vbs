@@ -10,8 +10,12 @@ For i= 0 To WScript.Arguments.Count -1
    fso.GetBaseName(docpath) & ".pdf"
       objWord.Visible = False
       Set objDoc = objWord.documents.open(docPath)
-      objDoc.saveas pdfPath, 17
+      objDoc.saveas pdfPath, 17  
       objDoc.Close
       objWord.Quit   
    End If   
 Next
+
+' https://docs.microsoft.com/fr-fr/office/vba/api/word.saveas2
+' https://docs.microsoft.com/fr-fr/office/vba/api/word.wdsaveformat
+' 17 correspond à PDF
