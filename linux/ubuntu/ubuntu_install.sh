@@ -10,6 +10,8 @@ sudo apt install ranger
 sudo apt install most
 # affiche le nom de la distro 
 sudo apt install neofetch
+# xeyes
+sudo apt install x11-apps
 
 ## fun
 
