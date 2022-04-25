@@ -4,14 +4,16 @@ sudo apt upgrade -y
 ### logiciels ###
 ##    utile    ##
 
+# nano : editeur de texte 
+sudo apt install nano -y
 # explorateur de fichiers 
-sudo apt install ranger
+sudo apt install ranger -y
 # ajouter des couleurs dans le man
-sudo apt install most
+sudo apt install most -y
 # affiche le nom de la distro 
-sudo apt install neofetch
+sudo apt install neofetch -y
 # xeyes
-sudo apt install x11-apps
+sudo apt install x11-apps -y 
 
 ## fun
 

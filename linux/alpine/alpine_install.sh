@@ -4,6 +4,9 @@ apk upgrade
 ### logiciels ###
 ##    utile    ##
 
+# nano : editeur de texte
+apk add nano
+
 # explorateur de fichiers 
 apk add ranger
 
