@@ -8,6 +8,8 @@ sudo apt upgrade -y
 sudo apt install ranger
 # ajouter des couleurs dans le man
 sudo apt install most
+# affiche le nom de la distro 
+sudo apt install neofetch
 
 ## fun
 
