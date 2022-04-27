@@ -1,7 +1,7 @@
 # Config pour le PolyPC
 
 ## Écran
-Source : [Gnome fractional scaling below 100%](https://askubuntu.com/questions/82707/how-to-disable-gnome-fractional-scaling-below-100)
+Source : [Gnome fractional scaling below 100%](https://askubuntu.com/questions/1199655/gnome-fractional-scaling-below-100)
 
 ### Installer
  - Lancer la commande 
