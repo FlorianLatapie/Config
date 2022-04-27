@@ -15,3 +15,6 @@ apk add mc
 
 # affiche le nom de la distro 
 apk add neofetch
+
+# navigateur web en ligne de commande
+apk add links 

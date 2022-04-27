@@ -1,8 +1,8 @@
 sudo apt update
 sudo apt upgrade -y
 
-### logiciels ###
-##    utile    ##
+### logiciels
+##    utile
 
 # nano : editeur de texte 
 sudo apt install nano -y
@@ -14,6 +14,8 @@ sudo apt install most -y
 sudo apt install neofetch -y
 # xeyes
 sudo apt install x11-apps -y 
+# navigateur web en ligne de commandes 
+sudo apt install links
 
 ## fun
 
