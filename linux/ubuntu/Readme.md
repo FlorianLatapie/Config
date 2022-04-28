@@ -6,3 +6,7 @@ Lancez la commande
 ```sh 
 ./run.sh 
 ```
+
+# [PCs](PCs/Readme.md)
+
+# [Autre](autre/Readme.md)
