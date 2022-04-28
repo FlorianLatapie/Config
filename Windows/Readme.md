@@ -1,4 +1,12 @@
 # Config pour windows 🐱‍👤
 
-## Convertir .docx en .pdf
+## [Logiciels](Logiciels/Readme.md)
+
+### Convertir .docx en .pdf
 Le tuto est disponible [ici](Logiciels/Scripts/docxToPDF/Tuto.md)
+
+## [Troubleshooting](Troubleshooting/Readme.md)
+
+## Autre 
+
+### [Raccourcis](Raccourcis.md)
