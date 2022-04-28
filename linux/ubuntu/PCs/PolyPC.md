@@ -31,5 +31,5 @@ Exec=xrandr --output eDP-1 --scale 1.3x1.3
 OnlyShowIn=GNOME;
 ``` 
 ### Desinstaller
-j
+
 - Supprimer le fichier `/etc/xdg/autostart/.desktop`
