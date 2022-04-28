@@ -1,3 +1,3 @@
 # Scripts 
 
-## [DocxToPDF](DocxToPDF/tuto.md)
+## [DocxToPDF](docxToPDF/Tuto.md)
