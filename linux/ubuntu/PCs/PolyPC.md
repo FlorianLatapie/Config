@@ -4,6 +4,13 @@
 Source : [Gnome fractional scaling below 100%](https://askubuntu.com/questions/1199655/gnome-fractional-scaling-below-100)
 
 ### Installer
+
+#### Installation automatique 
+```sh
+./ecran_install.sh
+```
+
+#### Installation manuelle 
  - Lancer la commande 
 ```sh
 xrandr --listmonitors
@@ -32,4 +39,8 @@ OnlyShowIn=GNOME;
 ``` 
 ### Desinstaller
 
-- Supprimer le fichier `/etc/xdg/autostart/.desktop`
+- Supprimer le contenu du fichier `/etc/xdg/autostart/.desktop`
+
+```sh
+./ecran_uninstall.sh
+```
