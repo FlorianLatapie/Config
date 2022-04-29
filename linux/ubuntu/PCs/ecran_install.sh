@@ -23,21 +23,6 @@ appliquerEchelle() {
 	xrandr --output $1 --scale $2x$2
 }
 
-getEcran() {
-	liste_ecrans_ligne_n=$(echo "$lister_ecrans" | sed -n "$num_ecran"'p')
-	nom_ecran=${liste_ecrans_ligne_n##* }
-}
-
-lireEchelle() {
-	echo "Quelle échelle ?"
-	read scale
-}
-
-appliquer() {
-	remplirFichier $nom_ecran $scale
-	appliquerEchelle $nom_ecran $scale
-}
-
 # Début du script
 
 lister_ecrans=$(xrandr --listmonitors)
@@ -55,7 +40,13 @@ else
 	num_ecran=$(expr $num_ecran + 2)
 fi
 
-getEcran
-lireEchelle
-appliquer
+liste_ecrans_ligne_n=$(echo "$lister_ecrans" | sed -n "$num_ecran"'p')
+nom_ecran=${liste_ecrans_ligne_n##* }
+
+echo "Quelle échelle ?"
+read scale
+
+remplirFichier $nom_ecran $scale
+appliquerEchelle $nom_ecran $scale
+
 echo -e "\nInstallation terminée"
