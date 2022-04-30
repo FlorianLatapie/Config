@@ -1,5 +1,8 @@
 # Visual Studio Code 
 
+## Global 
+Lancer Visual Studio Code en ouvrant le dossier courant : `code .`
+
 ## Windows 
 Tout enregistrer : `Ctrl + K, S`
 
