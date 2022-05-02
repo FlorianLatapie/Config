@@ -8,4 +8,5 @@
 
 ## Autre 
 
-### [Raccourcis](Raccourcis.md)
+- [Commandes utiles](CommandesUtiles.md)
+- [Raccourcis](Raccourcis.md)

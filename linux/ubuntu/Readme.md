@@ -17,6 +17,9 @@ Lancez la commande
 ./run.sh 
 ```
 
-# [PCs](PCs/Readme.md)
+# PCs
+Configurations spécifiques à chaque PC [ici](PCs/Readme.md)
 
-# [Autre](autre/Readme.md)
+# Autre
+- [Autres configurations](autre/Readme.md)
+- [Commandes Utiles](CommandesUtiles.md)
