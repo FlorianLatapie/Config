@@ -16,6 +16,10 @@ sudo apt install neofetch -y
 sudo apt install x11-apps -y 
 # navigateur web en ligne de commandes 
 sudo apt install links
+# conversion de fichiers windows vers format unix
+sudo apt install dos2unix -y
+# affiche les stats sur un projet 
+sudo apt install cloc -y
 
 ## fun
 
