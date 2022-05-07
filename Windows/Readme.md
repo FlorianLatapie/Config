@@ -9,4 +9,5 @@
 ## Autre 
 
 - [Commandes utiles](CommandesUtiles.md)
+- [Logiciels utiles](LogicielsUtiles.md)
 - [Raccourcis](Raccourcis.md)
