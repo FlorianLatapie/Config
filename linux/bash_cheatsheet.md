@@ -78,8 +78,8 @@ fi
 ```
 
 Table de conversion : 
-| bash | Symbole | Définition          |
-|------|---------|---------------------|
+| bash   | Symbole | Définition          |
+|--------|---------|---------------------|
 | `-eq`  | =       | égal à              |
 | `-ne`  | !=      | différent de        |
 | `-gt`  | >       | supérieur à         |
