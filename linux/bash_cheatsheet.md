@@ -80,12 +80,12 @@ fi
 Table de conversion : 
 | bash | Symbole | Définition          |
 |------|---------|---------------------|
-| -eq  | =       | égal à              |
-| -ne  | !=      | différent de        |
-| -gt  | >       | supérieur à         |
-| -lt  | <       | inférieur à         |
-| -ge  | >=      | supérieur ou égal à |
-| -le  | <=      | inférieur ou égal à |
+| `-eq`  | =       | égal à              |
+| `-ne`  | !=      | différent de        |
+| `-gt`  | >       | supérieur à         |
+| `-lt`  | <       | inférieur à         |
+| `-ge`  | >=      | supérieur ou égal à |
+| `-le`  | <=      | inférieur ou égal à |
 
 ## Fonctions 
 ```sh
