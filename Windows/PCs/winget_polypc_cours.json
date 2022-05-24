@@ -7,7 +7,7 @@
 			"Packages" : 
 			[
 				{
-					"PackageIdentifier" : "7zip.7zip"
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
 					"PackageIdentifier" : "GitHub.GitHubDesktop"
@@ -16,16 +16,7 @@
 					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier" : "Microsoft.WindowsTerminal"
-				},
-				{
-					"PackageIdentifier" : "Notepad++.Notepad++"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.Office"
-				},
-				{
-					"PackageIdentifier" : "TeamViewer.TeamViewer"
+					"PackageIdentifier" : "Postman.Postman"
 				},
 				{
 					"PackageIdentifier" : "JetBrains.Toolbox"
