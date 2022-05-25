@@ -21,7 +21,7 @@ echo -e "\nInstall x11-apps\n"
 sudo apt install x11-apps -y 
 # navigateur web en ligne de commandes 
 echo -e "\nInstall links\n"
-sudo apt install links
+sudo apt install links -y
 # conversion de fichiers windows vers format unix
 echo -e "\nInstall dos2unix\n"
 sudo apt install dos2unix -y
