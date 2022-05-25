@@ -7,12 +7,12 @@ Testé sur Windows 10 avec WSL1 et WSL2, les deux fonctionnent.
 
 - Télécharger GWSL depuis le Microsoft store : [GWSL par Opticos Studios](https://www.microsoft.com/store/productId/9NL6KD1H33V3)
 - Lancer 
-- Cliquer sur `Ok`
+- Une fenêtre s'affiche : "Allow GWSL Firewall Access", Cliquer sur `Ok`
 - Autoriser l'alerte de sécurité windows 
 - Si "Check out my new app ! ..." est affiché, cliquer sur `Don't Show Again`
 - Cliquer sur GWSL Distro Tools
 - Cliquer sur `Auto-Export Display/Audio`
-- Une fenêtre "Restart machine" s'ouvre, cliquer sur `Oui`
+- Une fenêtre "Restart Machine?" s'ouvre, cliquer sur `Oui`
 
 ## Utilisation
 
