@@ -8,3 +8,9 @@
 - Nommer la valeur `TaskbarSi`
 - Entrez la valeur `0` pour petit, `1` pour moyen (défaut), `2` pour grand (base : Hexadécimale)
 - Relancez l'explorateur Windows (explorer.exe)
+
+## Lancer l'Outil Capture d'écran avec la touche impr écr 
+- Ouvrir les paramètres de Windows 
+- `Accessibilité`
+- `Clavier`
+- Activer `Utiliser le bouton Imprimer l'écran pour ouvrir capture d'écran`
