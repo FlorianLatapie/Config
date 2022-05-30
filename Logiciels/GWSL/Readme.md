@@ -1,7 +1,11 @@
 # GWSL 
 
 ## Informations 
-Testé sur Windows 10 avec WSL1 et WSL2, les deux fonctionnent. 
+Fonctionne selon les versions et les OS ?
+| OS         | WSL1 | WSL2 |
+| ---------- | ---- | ---- |
+| Windows 10 | Oui  | Oui  |
+| Windows 11 | Non  | Oui  |
 
 ## Installation 
 
