@@ -10,6 +10,7 @@
 - [Google Dictionary by Google](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja)
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Honey Automatic Coupons](https://chrome.google.com/webstore/detail/honey-automatic-coupons-c/bmnlcjabgnpnenekpadlanbbkooimhnj)
+- [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja)
 - [IGRAAL](https://chrome.google.com/webstore/detail/igraal-cashback-codes-pro/kmhkepipobnjllejbafajoemahjejdcm)
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab)
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
