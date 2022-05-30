@@ -1,12 +1,12 @@
 # Ubuntu
 Dans ce dossier est contenu les fichiers de configuration pour l'installation de Ubuntu, spécifiquement la version Ubuntu 22.04 LTS
 
-Choses amusantes installées
-- hollywood : fais croire que l'on est un hacker hollywoodien
+Commandes amusantes installées
+- `hollywood` : fais croire que l'on est un hacker hollywoodien
 ```sh
 hollywood
 ```	
-- lolcat : change la couleur de la commande `cat` en affichant le texte en arc en ciel
+- `lolcat` : change la couleur de la commande `cat` en affichant le texte en arc en ciel
 ```sh
 cat ~/.bashrc 
 ``` 
@@ -15,11 +15,11 @@ cat ~/.bashrc
 Lancez la commande 
 ```sh 
 ./run.sh 
-```
+``` 
 
 # PCs
 Configurations spécifiques à chaque PC [ici](PCs/Readme.md)
 
 # Autre
 - [Autres configurations](autre/Readme.md)
-- [Commandes Utiles](CommandesUtiles.md)
+- [Commandes utiles](CommandesUtiles.md)

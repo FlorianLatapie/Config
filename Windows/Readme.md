@@ -1,6 +1,6 @@
 # Config pour Windows 🐱‍👤
 
-## [Config](config/Readme.md)
+## [Config](Config/Readme.md)
 
 ## [Logiciels](Logiciels/Readme.md)
 
