@@ -1,5 +1,6 @@
 # Logiciels
 
+# [BIOS](BIOS/README.md)
 # [Chrome](Chrome/Readme.md)
 # [Git](Git/Readme.md)
 # [GWSL](GWSL/Readme.md)
