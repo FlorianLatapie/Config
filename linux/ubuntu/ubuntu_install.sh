@@ -40,7 +40,6 @@ sudo apt install gh -y
 echo -e "\nInstall gedit\n"
 sudo apt install gedit -y
 
-
 ## fun
 
 # colorer le cat 
@@ -50,4 +49,6 @@ sudo apt install lolcat -y
 # info :(des fois fais bugger wsl au moment de l'install)
 echo -e "\nInstall hollywood\n"
 sudo apt install hollywood -y 
-
+# sl : fausse commande ls quand on se trompe 
+echo -e "\nInstall sl\n"
+sudo apt install sl -y
