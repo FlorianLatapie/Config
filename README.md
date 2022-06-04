@@ -1,6 +1,6 @@
 # Config
 
-# [Linux](linux/Readme.md)
+# [Linux](linux/Readme.md) <!-- volontairement en minuscule pour que ce soit plus simple à naviguer en CLI-->
 
 # [Windows](Windows/Readme.md)
 
