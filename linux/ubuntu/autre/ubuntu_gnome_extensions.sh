@@ -1,4 +1,4 @@
-# gome shell extensions
+# gnome shell extensions
 echo -e "Les extensions sont disponibles sur le site : https://extensions.gnome.org"
 sudo apt install gnome-shell-extensions
 

@@ -1,3 +1,3 @@
-# Config spécifiques à certains ordinateurs 
+# Configs spécifiques à certains ordinateurs 
 
 ## [PolyPC](PolyPC.md)

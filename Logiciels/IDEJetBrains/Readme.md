@@ -17,9 +17,9 @@
 ## Réglages 
 
 ### SonarLint 
-- Comment desactiver SonarLint au démarrage ? 
+- Comment désactiver SonarLint au démarrage ? 
 
-Source : [How to turn off SonarLint automatic triggering on IntelliJ IDEA - Stack Overflow][desactiver SonarLint]
+Source : [How to turn off SonarLint automatic triggering on IntelliJ IDEA - Stack Overflow][désactiver SonarLint]
 
 - Cliquer sur `File`
 - Cliquer sur `Settings...`
@@ -28,6 +28,6 @@ Source : [How to turn off SonarLint automatic triggering on IntelliJ IDEA - Stac
 - Décocher `Automatically trigger SonarLint analysis`
 
 
-<!-- ## Sources -->
+<!-- Sources -->
 
-[desactiver SonarLint]: https://stackoverflow.com/questions/39175016/how-to-turn-off-sonarlint-automatic-triggering-on-intellij-idea
+[désactiver SonarLint]: https://stackoverflow.com/questions/39175016/how-to-turn-off-sonarlint-automatic-triggering-on-intellij-idea

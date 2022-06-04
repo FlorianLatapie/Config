@@ -5,7 +5,7 @@
 - Brancher l'iPhone/IPad/iPod sur l'ordinateur 
 - Appuyer une fois sur volume +
 - Appuyer une fois sur volume -
-- Maintenir le bouton verrouiller enfoncé jusqu'à ce que l'icone DFU apparaisse (maintenir appuyé sur le bouton même si la pomme est affichée) 
+- Maintenir le bouton verrouiller enfoncé jusqu'à ce que l'icône DFU apparaisse (maintenir appuyé sur le bouton même si la pomme est affichée) 
 
 ## Mettre à jour depuis un fichier (.ipsw)
 - Télécharger le fichier .ipsw depuis [IPSW download][ipsw.me]

@@ -15,12 +15,12 @@ git log
 git checkout <sha1 du commit>
 ```
 
-## Importer un dépot (pour faire un fork privé par exemple)
+## Importer un dépôt (pour faire un fork privé par exemple)
 Source : [GitHub: How to make a fork of public repository private?](https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private)
 
-- Créer un dépot
+- Créer un dépôt
 - Cliquer sur [Import a repository.](https://github.com/new/import)
-- Entrer l'url du dépot à importer
+- Entrer l'URL du dépôt à importer
 - Cliquer sur `Begin import`
 
-Une solution en ligne de commande est possible est est donnée dans la source.
+Une solution en ligne de commande est possible et est donnée dans la source.

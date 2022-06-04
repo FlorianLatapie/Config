@@ -9,7 +9,7 @@
 - Entrez la valeur `0` pour petit, `1` pour moyen (défaut), `2` pour grand (base : Hexadécimale)
 - Relancez l'explorateur Windows (explorer.exe)
 
-## Lancer l'Outil Capture d'écran avec la touche impr écr 
+## Lancer l'Outil Capture d'écran avec la touche "Imprimer l'écran"
 - Ouvrir les paramètres de Windows 
 - `Accessibilité`
 - `Clavier`

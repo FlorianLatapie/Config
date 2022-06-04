@@ -24,7 +24,7 @@
 - [Shazam](https://chrome.google.com/webstore/detail/shazam-identify-songs-fro/mmioliijnhnoblpgimnlajmefafdfilb)
 - [SponsorBlock for YouTube](https://chrome.google.com/webstore/detail/sponsorblock-for-youtube/mnjggcdmjocbbbhaepdhchncahnbgone)
 - [Tineye Reverse Image Search](https://chrome.google.com/webstore/detail/tineye-reverse-image-sear/haebnnbpedcbhciplfhjjkbafijpncjl)
-- [Trim IMDb Ratings on Netfilx](https://chrome.google.com/webstore/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
+- [Trim IMDb Ratings on Netflix](https://chrome.google.com/webstore/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
 - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha)
 - [YouTube for TV](https://chrome.google.com/webstore/detail/youtube-for-tv/gmmbpchnelmlmndfnckechknbohhjpge/related)

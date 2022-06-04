@@ -3,8 +3,9 @@
 ## Tous OS
 
 |      | BIOS | Boot Menu |
-| :--: | :--: | :-------: |
-| Dell | `F2` | `12`      |
+|:----:|:----:|:---------:|
+| Dell | `F2` |   `12`    |
+
 
 ## Redémarrage depuis Windows 10 
 - Mise à jour et sécurité 

@@ -14,7 +14,7 @@ javascript:window.location.href=window.location.href+'CHANGEZ MOI';
 ```
 3. Sauvegarder le favori
 
-Cela est nottament utile pour ajouter des paramètres à un lien ou pour voir les Stargazers d'un projet sur GitHub.
+Cela est notamment utile pour ajouter des paramètres à un lien ou pour voir les Stargazers d'un projet sur GitHub.
 ```javascript	
 javascript:window.location.href=window.location.href+'/stargazers';
 ```

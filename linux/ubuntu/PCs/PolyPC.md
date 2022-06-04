@@ -15,7 +15,7 @@ Source : [Gnome fractional scaling below 100%](https://askubuntu.com/questions/1
 ```sh
 xrandr --listmonitors
 ```
-le resultat est :
+Le résultat est :
 ```
 Monitors: 1
  0: +*eDP-1 1776/309x999/173+0+0  eDP-1
@@ -37,7 +37,7 @@ Name=xrandr
 Exec=xrandr --output eDP-1 --scale 1.3x1.3
 OnlyShowIn=GNOME;
 ``` 
-### Desinstaller
+### Désinstaller
 
 - Supprimer le contenu du fichier `/etc/xdg/autostart/.desktop`
 

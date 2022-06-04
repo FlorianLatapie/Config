@@ -12,7 +12,7 @@ remplirFichier() {
 		if [ $reponse = "o" ]; then
 			echo "remplissage du fichier"
 		else
-			echo "Arret de l'installation"
+			echo "Arrêt de l'installation"
 			exit
 		fi
 	fi
@@ -27,7 +27,7 @@ appliquerEchelle() {
 
 lister_ecrans=$(xrandr --listmonitors)
 
-echo -e "Écrans détéctés :\n"
+echo -e "Écrans détectés :\n"
 echo "$lister_ecrans"
 echo -e ""
 

@@ -2,8 +2,9 @@
 
 ## Informations 
 Fonctionne selon les versions et les OS ?
-| OS         | WSL1 | WSL2 |
-| :--------: | :--: | :--: |
+
+|     OS     | WSL1 | WSL2 |
+|:----------:|:----:|:----:|
 | Windows 10 | Oui  | Oui  |
 | Windows 11 | Non  | Oui  |
 

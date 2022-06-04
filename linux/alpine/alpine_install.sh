@@ -4,7 +4,7 @@ apk upgrade
 ### logiciels ###
 ##    utile    ##
 
-# nano : editeur de texte
+# nano : éditeur de texte
 echo -e "\nInstall nano\n"
 apk add nano
 

@@ -4,7 +4,7 @@ sudo apt upgrade -y
 ### logiciels
 ##    utile
 
-# nano : editeur de texte 
+# nano : éditeur de texte
 echo -e "\nInstall nano\n"
 sudo apt install nano -y
 # explorateur de fichiers
@@ -46,7 +46,7 @@ sudo apt install gedit -y
 echo -e "\nInstall lolcat\n"
 sudo apt install lolcat -y 
 # hollywood 
-# info :(des fois fais bugger wsl au moment de l'install)
+# info :(des fois fais bugger wsl au moment de l'installation)
 echo -e "\nInstall hollywood\n"
 sudo apt install hollywood -y 
 # sl : fausse commande ls quand on se trompe 

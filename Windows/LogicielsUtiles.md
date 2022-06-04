@@ -9,7 +9,7 @@ Distros
 - [Ubuntu (WSL) par Canonical Group Limited](https://www.microsoft.com/store/productId/9PDXGNCFSCZV)
 - [Debian (WSL) par The Debian Project](https://www.microsoft.com/store/productId/9MSVKQC78PK6)
 
-### Autre applications
+### Autres applications
 - [Battery Tracker par myfix16](https://www.microsoft.com/store/productId/9P1FBSLRNM43)
 - [EarTrumpet par File-New-Project](https://www.microsoft.com/store/productId/9NBLGGH516XP)
 - [GWSL par Opticos Studios](https://www.microsoft.com/store/productId/9NL6KD1H33V3)
