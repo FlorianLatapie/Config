@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 fichier="/etc/xdg/autostart/.desktop"
 NB_LIGNES=$(cat $fichier | wc -l)
 

@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 echo -e "Mise à jour et installation\n"
 ./ubuntu_install.sh
 
