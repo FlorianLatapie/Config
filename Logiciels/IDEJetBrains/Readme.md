@@ -31,5 +31,14 @@ Source : [How to turn off SonarLint automatic triggering on IntelliJ IDEA - Stac
 - Cliquer sur `SonarLint`
 - Décocher `Automatically trigger SonarLint analysis`
 
+### Completion insensible à la casse
+
+- Cliquer sur `File`
+- Cliquer sur `Settings...`
+- Cliquer sur `Editor`
+- Cliquer sur `General`
+- Cliquer sur `Code completion`
+- Décocher `Match case`
+
 <!-- Sources -->
 [désactiver SonarLint]: https://stackoverflow.com/questions/39175016/how-to-turn-off-sonarlint-automatic-triggering-on-intellij-idea
