@@ -41,4 +41,4 @@ Source : [How to turn off SonarLint automatic triggering on IntelliJ IDEA - Stac
 - Décocher `Match case`
 
 <!-- Sources -->
-[désactiver SonarLint]: https://stackoverflow.com/questions/39175016/how-to-turn-off-sonarlint-automatic-triggering-on-intellij-idea
+[désactiver SonarLint]: https://stackoverflow.com/q/39175016

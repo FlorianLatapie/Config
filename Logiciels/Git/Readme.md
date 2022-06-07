@@ -16,7 +16,7 @@ git checkout <sha1 du commit>
 ```
 
 ## Importer un dépôt (pour faire un fork privé par exemple)
-Source : [GitHub: How to make a fork of public repository private?](https://stackoverflow.com/questions/10065526/github-how-to-make-a-fork-of-public-repository-private)
+Source : [GitHub: How to make a fork of public repository private?][make repository private link]
 
 - Créer un dépôt
 - Cliquer sur [Import a repository.](https://github.com/new/import)
@@ -24,3 +24,5 @@ Source : [GitHub: How to make a fork of public repository private?](https://stac
 - Cliquer sur `Begin import`
 
 Une solution en ligne de commande est possible et est donnée dans la source.
+
+[make repository private link]: https://stackoverflow.com/q/10065526
