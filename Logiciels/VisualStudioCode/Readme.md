@@ -4,6 +4,8 @@
 
 Lancer Visual Studio Code en ouvrant le dossier courant : `code .`
 
+## Raccourcis clavier
+
 |                                      | Windows                  | Linux                    | Nom dans la command palette |
 |--------------------------------------|--------------------------|--------------------------|-----------------------------|
 | Afficher tous les raccourcis clavier | `Ctrl + K, Ctrl + S`     | JSP                      | Open Keyboard Shortcuts     |
