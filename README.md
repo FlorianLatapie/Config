@@ -8,4 +8,4 @@
 
 # [Logiciels](Logiciels/Readme.md)
 
-# [Languages de programmation](Languages/Readme.md)
+# [Langages de programmation](Langages/Readme.md)
