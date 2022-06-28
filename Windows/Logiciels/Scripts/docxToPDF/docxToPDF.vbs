@@ -7,10 +7,10 @@ For i= 0 To WScript.Arguments.Count -1
    If LCase(Right(docPath, 4)) = ".doc" Or LCase(Right(docPath, 5)) = ".docx" Then
       Set objWord = CreateObject("Word.Application")
       pdfPath = fso.GetParentFolderName(docPath) & "\" & _
-   fso.GetBaseName(docpath) & ".pdf"
+   fso.GetBaseName(docPath) & ".pdf"
       objWord.Visible = False
       Set objDoc = objWord.documents.open(docPath)
-      objDoc.saveas pdfPath, 17  
+      objDoc.SaveAs pdfPath, 17
       objDoc.Close
       objWord.Quit   
    End If   

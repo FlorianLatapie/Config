@@ -12,7 +12,7 @@ Pour s'amuser il a donc créé un programme mystère comme il suit :
 
 Après une rapide recherche Google j'ai trouvé et testé la solution donnée dans ce stackoverflow : 
 
-[Create bool value which is neither true or false](https://stackoverflow.com/a/48344196)
+[Create bool value which is neither true nor false](https://stackoverflow.com/a/48344196)
 
 Mon programme pour tester cette solution : 
 ```c
