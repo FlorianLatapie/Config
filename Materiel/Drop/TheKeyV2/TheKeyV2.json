@@ -1,0 +1,405 @@
+// 20220718001738
+// https://docs.drop.com/thekey.json
+
+{
+  "version": 1,
+  "keyboard": {
+    "keys": [
+      {
+        "id": 0,
+        "legend": "",
+        "state": {
+          "x": 0,
+          "y": 0,
+          "r": 0,
+          "rx": 0,
+          "ry": 0,
+          "w": 1,
+          "h": 1,
+          "x2": 0,
+          "y2": 0,
+          "w2": 0,
+          "h2": 0,
+          "a": 7
+        },
+        "row": 0,
+        "col": 0,
+        "keycodes": [
+          {
+            "id": "KC_1",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "legend": "",
+        "state": {
+          "x": 1,
+          "y": 0,
+          "r": 0,
+          "rx": 0,
+          "ry": 0,
+          "w": 1,
+          "h": 1,
+          "x2": 0,
+          "y2": 0,
+          "w2": 0,
+          "h2": 0,
+          "a": 7
+        },
+        "row": 0,
+        "col": 1,
+        "keycodes": [
+          {
+            "id": "KC_2",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "legend": "",
+        "state": {
+          "x": 2,
+          "y": 0,
+          "r": 0,
+          "rx": 0,
+          "ry": 0,
+          "w": 1,
+          "h": 1,
+          "x2": 0,
+          "y2": 0,
+          "w2": 0,
+          "h2": 0,
+          "a": 7
+        },
+        "row": 0,
+        "col": 2,
+        "keycodes": [
+          {
+            "id": "KC_3",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          },
+          {
+            "id": "KC_TRNS",
+            "fields": [
+
+            ]
+          }
+        ]
+      }
+    ],
+    "controller": 1,
+    "bounds": {
+      "min": {
+        "x": 0,
+        "y": 0
+      },
+      "max": {
+        "x": 3,
+        "y": 1
+      }
+    },
+    "rows": 1,
+    "cols": 3,
+    "pins": {
+      "row": [
+        "D4"
+      ],
+      "col": [
+        "D2",
+        "D1",
+        "D0"
+      ],
+      "num": null,
+      "caps": null,
+      "scroll": null,
+      "compose": null,
+      "kana": null,
+      "led": "B6",
+      "rgb": "B1"
+    },
+    "macros": {
+
+    },
+    "quantum": "void matrix_init_user(void) {\n}\n\nvoid matrix_scan_user(void) {\n}\n\nbool process_record_user(uint16_t keycode, keyrecord_t *record) {\n\treturn true;\n}",
+    "settings": {
+      "diodeDirection": 1,
+      "name": "3 KEY",
+      "bootloaderSize": 2,
+      "rgbNum": 5,
+      "backlightLevels": 3
+    }
+  }
+}
