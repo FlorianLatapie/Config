@@ -3,7 +3,14 @@
 ## Activer appels Wi-Fi 
 `Réglages > Téléphone > Appels WiFi`
 
-(L'option peut, ne pas apparaître selon le modèle ou l'opérateur)
+L'option peut, ne pas apparaître selon le modèle ou l'opérateur : 
+| Opérateur | Disponible |
+|-----------|------------|
+| Bouygues  | Oui        |
+| SFR       | Oui        | 
+| Orange    | ?          | 
+| Free      | Fin 2022   |
+
 
 | ![image][appels_wifi_1] | ![image][appels_wifi_2] | ![image][appels_wifi_3] |
 |-------------------------|-------------------------|-------------------------|
