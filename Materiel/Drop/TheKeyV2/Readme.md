@@ -32,7 +32,7 @@ Disposition que nous allons appliquer :
 **Modification touches** 
 
 Layer 0 :
-Selectionnez la couche `0` (`Select a layer to modify.`)
+Sélectionnez la couche `0` (`Select a layer to modify.`)
 - Cliquez sur la première touche (`1` par défaut) 
   - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `MO()` (Changer de layer momentanément, dans la layer de destination il faut le key code `KC_TRNS`)
   - Dans le menu qui vient de s'afficher, choisissez `Layer 1`
@@ -45,7 +45,7 @@ Selectionnez la couche `0` (`Select a layer to modify.`)
   - Dans `Configure the selected key.` choisissez dans l'onglet `LIGHTING` : `RGB_HUI` (augmenter la teinte de la couleur)
   
 Layer 1 :
-Selectionnez la couche `1` (`Select a layer to modify.`)    
+Sélectionnez la couche `1` (`Select a layer to modify.`)    
 - Cliquez sur la première touche (`TRNS` par défaut) 
   - Dans `Configure the selected key.` choisissez dans l'onglet `PRIMARY` : `TRNS`
 - Cliquez sur la deuxième touche (`TRNS` par défaut)
