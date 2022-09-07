@@ -25,7 +25,7 @@ Fonctionne selon les versions et les OS ?
 - Lancer GWSL dans Windows
 - Lancer une application graphique
 ```sh 
-sudo apt-get install x11-apps
+sudo apt-get install x11-apps -y
 ``` 
 ```sh 
 xeyes
