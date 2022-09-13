@@ -41,6 +41,9 @@ sudo apt install gh -y
 # éditeur de texte graphique 
 echo -e "\nInstall gedit\n"
 sudo apt install gedit -y
+# compilateur C++
+echo -e "\nInstall g++\n"
+sudo apt install g++ -y
 
 ## fun
 
