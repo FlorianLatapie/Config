@@ -1,30 +1,16 @@
 # Réglages iOS
 
-## Activer appels Wi-Fi 
-`Réglages > Téléphone > Appels WiFi`
-
-L'option peut, ne pas apparaître selon le modèle ou l'opérateur : 
-| Opérateur | Disponible |
-|-----------|------------|
-| Bouygues  | Oui        |
-| SFR       | Oui        | 
-| Orange    | ?          | 
-| Free      | Fin 2022   |
 
 
-| ![image][appels_wifi_1] | ![image][appels_wifi_2] | ![image][appels_wifi_3] |
-|-------------------------|-------------------------|-------------------------|
 
-<!-- Sources -->
-[appels_wifi_1]:https://user-images.githubusercontent.com/70631622/169761654-86e23530-0faf-4277-9683-910add1d54d6.png
-[appels_wifi_2]:https://user-images.githubusercontent.com/70631622/169762815-3b8a1924-065f-406a-b942-9c0b0cf75a25.png
-[appels_wifi_3]:https://user-images.githubusercontent.com/70631622/169759631-b2d2fad0-d46b-4257-9702-75624857df7d.png
 
-## Désactiver le code PIN de la carte SIM
 
-`Réglages > Données cellulaires > (CARTES SIM) > PIN de la carte SIM` 
+## Données cellulaires
+### Désactiver le code PIN de la carte SIM
 
-Désactivez l'option `PIN de la carte SIM` et entrez une dernière fois votre code PIN de carte SIM 
+`Réglages > Données cellulaires > (CARTES SIM) > PIN de la carte SIM`
+
+Désactivez l'option `PIN de la carte SIM` et entrez une dernière fois votre code PIN de carte SIM
 
 | ![image][code_sim_1] | ![image][code_sim_2] | 
 |----------------------|----------------------|
@@ -35,3 +21,54 @@ Désactivez l'option `PIN de la carte SIM` et entrez une dernière fois votre co
 [code_sim_2]:https://user-images.githubusercontent.com/70631622/186919004-65d7cef7-e613-4227-8a71-d5a6381ebca9.png
 [code_sim_3]:https://user-images.githubusercontent.com/70631622/186919009-145a71fa-2e60-419a-9bfb-cd0b0af98ba5.png
 [code_sim_4]:https://user-images.githubusercontent.com/70631622/186919011-b72f7f9d-d03c-444d-b8f5-07e852ea85eb.png
+
+## Sons et vibrations
+### Ne pas changer le volume de la sonnerie avec les boutons
+`Réglages > Sons et vibrations`
+
+Désactivez l'option `Utiliser les boutons` dans l'encadré `VOLUME DES SONNERIES ET ALERTES`
+
+## Général
+### Désactiver les autocollants Memoji 
+`Réglages > Général > Clavier` 
+
+Désactivez l'option `Autocollants Memoji` dans l'encadré `EMOJI`
+
+## Centre de contrôle
+### Mes commandes 
+`Réglages > Centre de contrôle `
+
+- Mode économie d'énergie
+- Lampe torche
+- Appareil photo
+- Calculette
+- Minuteur
+- Enregistrement d'écran
+- Reconnaissance des morceaux 
+- Accès guidé
+- Cartes
+- Alarme
+- Apple TV Remote
+- Audition 
+
+
+## Téléphone
+### Activer appels Wi-Fi 
+`Réglages > Téléphone > Appels WiFi`
+
+L'option peut, ne pas apparaître selon le modèle ou l'opérateur : 
+
+| Opérateur | Disponible |
+|-----------|------------|
+| Bouygues  | Oui        |
+| SFR       | Oui        |
+| Orange    | ?          | 
+| Free      | Fin 2022   |
+
+| ![image][appels_wifi_1] | ![image][appels_wifi_2] | ![image][appels_wifi_3] |
+|-------------------------|-------------------------|-------------------------|
+
+<!-- Sources -->
+[appels_wifi_1]:https://user-images.githubusercontent.com/70631622/169761654-86e23530-0faf-4277-9683-910add1d54d6.png
+[appels_wifi_2]:https://user-images.githubusercontent.com/70631622/169762815-3b8a1924-065f-406a-b942-9c0b0cf75a25.png
+[appels_wifi_3]:https://user-images.githubusercontent.com/70631622/169759631-b2d2fad0-d46b-4257-9702-75624857df7d.png
