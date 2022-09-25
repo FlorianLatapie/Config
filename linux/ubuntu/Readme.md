@@ -1,8 +1,12 @@
 # Ubuntu
-Dans ce dossier est contenu les fichiers de configuration pour l'installation d'Ubuntu, spécifiquement la version Ubuntu 22.04 LTS
+
+Dans ce dossier est contenu les fichiers de configuration pour l'installation d'Ubuntu, spécifiquement la version Ubuntu
+22.04 LTS
 
 Commandes amusantes installées
+
 - `hollywood` : fais croire que l'on est un hacker hollywoodien
+
 ```sh
 hollywood
 ```	
@@ -11,15 +15,19 @@ hollywood
 cat ~/.bashrc 
 ``` 
 
-# Lancer  
-Lancez la commande 
+# Lancer
+
+Lancez la commande
+
 ```sh 
 ./run.sh 
 ``` 
 
 # PCs
+
 Configurations spécifiques à chaque PC [ici](PCs/Readme.md)
 
 # Autre
+
 - [Autres configurations](autre/Readme.md)
 - [Commandes utiles](CommandesUtiles.md)

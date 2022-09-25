@@ -1,20 +1,23 @@
-# C 
+# C
 
-## Dingueries en C 
-### Booléen ni vrai ni faux 
+## Dingueries en C
+
+### Booléen ni vrai ni faux
+
 Après avoir discuté avec Tom "zdimension" Niget je suis tombé sur cela :
 
 ![booleen 1](https://cdn.discordapp.com/attachments/878167565573193738/984215353229971596/unknown.png)
 
-Pour s'amuser il a donc créé un programme mystère comme il suit : 
+Pour s'amuser il a donc créé un programme mystère comme il suit :
 
 ![booleen 2](https://cdn.discordapp.com/attachments/878167565573193738/984217080255614976/unknown.png)
 
-Après une rapide recherche Google j'ai trouvé et testé la solution donnée dans ce stackoverflow : 
+Après une rapide recherche Google j'ai trouvé et testé la solution donnée dans ce stackoverflow :
 
 [Create bool value which is neither true nor false](https://stackoverflow.com/a/48344196)
 
-Mon programme pour tester cette solution : 
+Mon programme pour tester cette solution :
+
 ```c
 #include <stdio.h>
 #include <stdbool.h>
@@ -43,7 +46,8 @@ int main()
 }
 ```
 
-Et en effet quand on compile le programme on obtient : 
+Et en effet quand on compile le programme on obtient :
+
 ```sh 
 $ gcc -w -o code code.c && ./code
 ???

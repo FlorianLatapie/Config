@@ -1,16 +1,21 @@
 # Réglages iOS
 
 ## Wi-Fi
+
 ### Trouver le mot de passe du Wi-Fi
+
 `Réglages > Wi-Fi > i (en haut à droite) > Afficher le mot de passe`
 
 ## Bluetooth
+
 ### Changer le nom du périphérique
+
 `Réglages > Bluetooth > Nom`
 
-Il est possible de changer le nom du périphérique seulement s'il est a portée et connecté. 
+Il est possible de changer le nom du périphérique seulement s'il est a portée et connecté.
 
 ## Données cellulaires
+
 ### Désactiver le code PIN de la carte SIM
 
 `Réglages > Données cellulaires > (CARTES SIM) > PIN de la carte SIM`
@@ -22,25 +27,35 @@ Désactivez l'option `PIN de la carte SIM` et entrez une dernière fois votre co
 | ![image][code_sim_3] | ![image][code_sim_4] |
 
 <!-- Sources -->
+
 [code_sim_1]:https://user-images.githubusercontent.com/70631622/186919012-d893a7b2-24f6-42f6-bda2-30b802a59b16.png
+
 [code_sim_2]:https://user-images.githubusercontent.com/70631622/186919004-65d7cef7-e613-4227-8a71-d5a6381ebca9.png
+
 [code_sim_3]:https://user-images.githubusercontent.com/70631622/186919009-145a71fa-2e60-419a-9bfb-cd0b0af98ba5.png
+
 [code_sim_4]:https://user-images.githubusercontent.com/70631622/186919011-b72f7f9d-d03c-444d-b8f5-07e852ea85eb.png
 
 ## Sons et vibrations
+
 ### Ne pas changer le volume de la sonnerie avec les boutons
+
 `Réglages > Sons et vibrations`
 
 Désactivez l'option `Utiliser les boutons` dans l'encadré `VOLUME DES SONNERIES ET ALERTES`
 
 ## Général
-### Désactiver les autocollants Memoji 
-`Réglages > Général > Clavier` 
+
+### Désactiver les autocollants Memoji
+
+`Réglages > Général > Clavier`
 
 Désactivez l'option `Autocollants Memoji` dans l'encadré `EMOJI`
 
 ## Centre de contrôle
-### Mes commandes 
+
+### Mes commandes
+
 `Réglages > Centre de contrôle `
 
 - Mode économie d'énergie
@@ -49,19 +64,20 @@ Désactivez l'option `Autocollants Memoji` dans l'encadré `EMOJI`
 - Calculette
 - Minuteur
 - Enregistrement d'écran
-- Reconnaissance des morceaux 
+- Reconnaissance des morceaux
 - Accès guidé
 - Cartes
 - Alarme
 - Apple TV Remote
-- Audition 
-
+- Audition
 
 ## Téléphone
-### Activer appels Wi-Fi 
+
+### Activer appels Wi-Fi
+
 `Réglages > Téléphone > Appels WiFi`
 
-L'option peut, ne pas apparaître selon le modèle ou l'opérateur : 
+L'option peut, ne pas apparaître selon le modèle ou l'opérateur :
 
 | Opérateur | Disponible |
 |-----------|------------|
@@ -74,6 +90,9 @@ L'option peut, ne pas apparaître selon le modèle ou l'opérateur :
 |-------------------------|-------------------------|-------------------------|
 
 <!-- Sources -->
+
 [appels_wifi_1]:https://user-images.githubusercontent.com/70631622/169761654-86e23530-0faf-4277-9683-910add1d54d6.png
+
 [appels_wifi_2]:https://user-images.githubusercontent.com/70631622/169762815-3b8a1924-065f-406a-b942-9c0b0cf75a25.png
+
 [appels_wifi_3]:https://user-images.githubusercontent.com/70631622/169759631-b2d2fad0-d46b-4257-9702-75624857df7d.png

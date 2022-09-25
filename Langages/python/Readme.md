@@ -1,13 +1,15 @@
-# Python 
+# Python
 
-## Upgrade pip 
+## Upgrade pip
 
-Windows 
+Windows
+
 ```bash
 python -m pip install --upgrade pip
 ```
 
-Linux 
+Linux
+
 ```bash
 pip install --upgrade pip
 ```

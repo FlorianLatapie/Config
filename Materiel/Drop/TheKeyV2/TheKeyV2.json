@@ -28,97 +28,81 @@
           {
             "id": "KC_1",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           }
         ]
@@ -146,97 +130,81 @@
           {
             "id": "KC_2",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           }
         ]
@@ -264,97 +232,81 @@
           {
             "id": "KC_3",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           },
           {
             "id": "KC_TRNS",
             "fields": [
-
             ]
           }
         ]
@@ -391,7 +343,6 @@
       "rgb": "B1"
     },
     "macros": {
-
     },
     "quantum": "void matrix_init_user(void) {\n}\n\nvoid matrix_scan_user(void) {\n}\n\nbool process_record_user(uint16_t keycode, keyrecord_t *record) {\n\treturn true;\n}",
     "settings": {

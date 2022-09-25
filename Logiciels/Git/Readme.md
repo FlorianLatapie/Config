@@ -1,21 +1,27 @@
 # Commandes Git utiles
 
 ## Supprimer le dernier commit (de force)
+
 ```sh 
 git reset --hard HEAD^
 ```
+
 ```
 git push --force
 ```
+
 ## Changer l'emplacement de la "HEAD"
+
 ```sh
 git log
 ```
+
 ```sh
 git checkout <sha1 du commit>
 ```
 
 ## Importer un dépôt (pour faire un fork privé par exemple)
+
 Source : [GitHub: How to make a fork of public repository private?][make repository private link]
 
 - Créer un dépôt

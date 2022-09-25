@@ -1,3 +1,3 @@
-# Applications 
+# Applications
 
 - [WhatsApp](WhatsApp/readme.md)
