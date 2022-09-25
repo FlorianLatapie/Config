@@ -1,9 +1,14 @@
 # Réglages iOS
 
+## Wi-Fi
+### Trouver le mot de passe du Wi-Fi
+`Réglages > Wi-Fi > i (en haut à droite) > Afficher le mot de passe`
 
+## Bluetooth
+### Changer le nom du périphérique
+`Réglages > Bluetooth > Nom`
 
-
-
+Il est possible de changer le nom du périphérique seulement s'il est a portée et connecté. 
 
 ## Données cellulaires
 ### Désactiver le code PIN de la carte SIM
