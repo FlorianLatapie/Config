@@ -12,7 +12,7 @@
 
 `Réglages > Bluetooth > Nom`
 
-Il est possible de changer le nom du périphérique seulement s'il est a portée et connecté.
+Il est possible de changer le nom du périphérique seulement s'il est à portée et connecté.
 
 ## Données cellulaires
 
@@ -52,6 +52,12 @@ Désactivez l'option `Utiliser les boutons` dans l'encadré `VOLUME DES SONNERIE
 
 Désactivez l'option `Autocollants Memoji` dans l'encadré `EMOJI`
 
+### Activer la dictée
+
+`Réglages > Général > Clavier`
+
+Activez l'option `Activer dictée` dans l'encadré `DICTÉE`
+
 ## Centre de contrôle
 
 ### Mes commandes
@@ -65,11 +71,44 @@ Désactivez l'option `Autocollants Memoji` dans l'encadré `EMOJI`
 - Minuteur
 - Enregistrement d'écran
 - Reconnaissance des morceaux
-- Accès guidé
+- Accès guidé / Lecteur d'étiquettes NFC
 - Cartes
 - Alarme
 - Apple TV Remote
 - Audition
+
+## Luminosité et affichage
+
+### Activer le mode nuit automatiquement
+
+`Réglages > Luminosité et affichage`
+
+Activez l'option `Automatique` dans l'encadré `APPARENCE`
+
+### Activer/désactiver True Tone
+
+Modifie la teinte des blancs pour s'adapter a l'environnement, pour un meilleur confort visuel,
+mais les couleurs sont modifiées.
+
+`Réglages > Luminosité et affichage`
+
+Activez/désactivez l'option `True Tone` dans l'encadré `Luminosité`
+
+### Activer Night Shift
+
+Réduit la lumière bleue de l'écran pour un meilleur confort visuel le soir. 
+
+`Réglages > Luminosité et affichage > Night Shift`
+
+Activez l'option `Horaires programmés` puis touchez `Début Fin` pour définir les horaires.
+
+Ici, sélectionnez `Du coucher au lever du soleil` pour que Night Shift s'active automatiquement selon où vous vous trouvez dans le monde.
+
+`CHALEUR DES COULEURS` : `Plus chaudes`
+
+### Changer le temps du verrouillage de l'écran
+
+`Réglages > Luminosité et affichage > Verrouillage de l'écran` : `Jamais`
 
 ## Téléphone
 
