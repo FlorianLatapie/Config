@@ -96,13 +96,14 @@ Activez/désactivez l'option `True Tone` dans l'encadré `Luminosité`
 
 ### Activer Night Shift
 
-Réduit la lumière bleue de l'écran pour un meilleur confort visuel le soir. 
+Réduit la lumière bleue de l'écran pour un meilleur confort visuel le soir.
 
 `Réglages > Luminosité et affichage > Night Shift`
 
 Activez l'option `Horaires programmés` puis touchez `Début Fin` pour définir les horaires.
 
-Ici, sélectionnez `Du coucher au lever du soleil` pour que Night Shift s'active automatiquement selon où vous vous trouvez dans le monde.
+Ici, sélectionnez `Du coucher au lever du soleil` pour que Night Shift s'active automatiquement selon où vous vous
+trouvez dans le monde.
 
 `CHALEUR DES COULEURS` : `Plus chaudes`
 

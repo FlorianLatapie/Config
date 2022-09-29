@@ -1,44 +1,41 @@
 {
-	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate" : "2022-05-21T22:51:11.293-00:00",
-	"Sources" : 
-	[
-		{
-			"Packages" : 
-			[
-				{
-					"PackageIdentifier" : "Docker.DockerDesktop"
-				},
-				{
-					"PackageIdentifier" : "GitHub.GitHubDesktop"
-				},
-				{
-					"PackageIdentifier" : "Git.Git"
-				},
-				{
-					"PackageIdentifier" : "Postman.Postman"
-				},
-				{
-					"PackageIdentifier" : "JetBrains.Toolbox"
-				},
-				{
-					"PackageIdentifier" : "Axosoft.GitKraken"
-				},
-				{
-					"PackageIdentifier" : "Oracle.JDK.17"
-				},
-				{
-					"PackageIdentifier" : "Microsoft.VisualStudioCode"
-				}
-			],
-			"SourceDetails" : 
-			{
-				"Argument" : "https://winget.azureedge.net/cache",
-				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name" : "winget",
-				"Type" : "Microsoft.PreIndexed.Package"
-			}
-		}
-	],
-	"WinGetVersion" : "1.2.10271"
+  "$schema": "https://aka.ms/winget-packages.schema.2.0.json",
+  "CreationDate": "2022-05-21T22:51:11.293-00:00",
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "Docker.DockerDesktop"
+        },
+        {
+          "PackageIdentifier": "GitHub.GitHubDesktop"
+        },
+        {
+          "PackageIdentifier": "Git.Git"
+        },
+        {
+          "PackageIdentifier": "Postman.Postman"
+        },
+        {
+          "PackageIdentifier": "JetBrains.Toolbox"
+        },
+        {
+          "PackageIdentifier": "Axosoft.GitKraken"
+        },
+        {
+          "PackageIdentifier": "Oracle.JDK.17"
+        },
+        {
+          "PackageIdentifier": "Microsoft.VisualStudioCode"
+        }
+      ],
+      "SourceDetails": {
+        "Argument": "https://winget.azureedge.net/cache",
+        "Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
+        "Name": "winget",
+        "Type": "Microsoft.PreIndexed.Package"
+      }
+    }
+  ],
+  "WinGetVersion": "1.2.10271"
 }
