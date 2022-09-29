@@ -5,7 +5,7 @@ echo -e "Mise à jour et installation\n"
 
 echo -e "Ajout de la config dans le .bashrc\n"
 cat bashrc_cours.txt >> ~/.bashrc
-cat bashrc.txt >> ~/.bashrc
+cat bashrc.sh >> ~/.bashrc
 
 echo -e "Terminé\n"
 

@@ -6,7 +6,7 @@
 
 | identifier      | public        | protected     | internal      | private       | notes                                                                    |
 |-----------------|---------------|---------------|---------------|---------------|--------------------------------------------------------------------------|
-| Project File    | `PascalCase`  | X             | X             | X             | Faire correspondre le nom de l'assembly et le namespace.                 |
+| Project File    | `PascalCase`  | X             | X             | X             | Faire correspondre le nom de l'`assembly` et le `namespace`.             |
 | Source File     | `PascalCase`  | X             | X             | X             | Faire correspondre le nom de la classe.                                  |
 | Other Files     | `PascalCase`  | X             | X             | X             |                                                                          |
 | Namespace       | `PascalCase`  | X             | X             | X             | Faire correspondre le nom du projet/assembly partiellement.              |
