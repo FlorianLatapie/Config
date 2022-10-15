@@ -22,3 +22,7 @@ Cela est notamment utile pour ajouter des paramètres à un lien ou pour voir le
 ```javascript	
 javascript:window.location.href=window.location.href+'/stargazers';
 ```
+
+Autre exemple : 
+```javascript	
+javascript:window.location.href=window.location.href.replace(".com/",".dev/")```
