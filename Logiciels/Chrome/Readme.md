@@ -25,4 +25,5 @@ javascript:window.location.href=window.location.href+'/stargazers';
 
 Autre exemple : 
 ```javascript	
-javascript:window.location.href=window.location.href.replace(".com/",".dev/")```
+javascript:window.location.href=window.location.href.replace(".com/",".dev/")
+```
