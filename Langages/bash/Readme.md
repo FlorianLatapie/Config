@@ -2,7 +2,7 @@
 
 ## Début de fichier
 
-```sh	
+```sh
 #!/usr/bin/env bash
 ```
 
@@ -26,7 +26,7 @@ echo -e "Première ligne\nDeuxième ligne"
 
 Sortie :
 
-```
+```txt
 Première ligne
 Deuxième ligne
 ```
@@ -47,7 +47,7 @@ Utilisation :
 
 Sortie :
 
-```
+```txt
 nb arguments : 3 (argc en C)
 arguments : arg1 arg2 arg3 (argv en C)
 premier argument : arg1
@@ -132,7 +132,7 @@ maFonction
 
 Sortie :
 
-```
+```txt
 Fonction !
 ```
 
@@ -148,6 +148,6 @@ maFonction arg1 arg2 arg3
 
 Sortie :
 
-```
+```txt
 Fonction avec 3 arguments
 ```

@@ -8,4 +8,4 @@ Si un fichier n'est pas supprimable même en administrateur : il pourrait être 
 
 ```cmd
 chkdsk c: /f /r
-``` 
+```

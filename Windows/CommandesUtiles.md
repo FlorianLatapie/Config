@@ -2,7 +2,7 @@
 
 ## Lancer WSL en admin sans mot de passe
 
-```cmd 
+```cmd
 wsl -u root 
 ```
 

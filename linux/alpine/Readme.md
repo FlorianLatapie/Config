@@ -3,10 +3,10 @@
 Dans ce dossier est contenu les fichiers de configuration pour l'installation de l'alpine linux, spécifiquement pour iSH
 sur iOS.
 
-# Lancer
+## Lancer
 
 Lancez la commande
 
-```sh 
+```sh
 ./run.sh 
 ```

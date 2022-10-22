@@ -9,25 +9,27 @@ Commandes amusantes installées
 
 ```sh
 hollywood
-```	
+```
+
 - `lolcat` : change la couleur de la commande `cat` en affichant le texte en arc en ciel
+
 ```sh
 cat ~/.bashrc 
-``` 
+```
 
-# Lancer
+## Lancer
 
 Lancez la commande
 
-```sh 
+```sh
 ./run.sh 
-``` 
+```
 
-# PCs
+## PCs
 
 Configurations spécifiques à chaque PC [ici](PCs/Readme.md)
 
-# Autre
+## Autre
 
 - [Autres configurations](autre/Readme.md)
 - [Commandes utiles](CommandesUtiles.md)

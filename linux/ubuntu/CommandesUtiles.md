@@ -8,7 +8,7 @@ sudo apt install rename
 
 Pour renommer tous les fichiers finissant par `.java.txt` en `.java`
 
-```sh 
+```sh
 rename "s/.java.txt$/.java/" *.txt   
 ```
 

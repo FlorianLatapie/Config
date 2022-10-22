@@ -2,11 +2,11 @@
 
 ## Supprimer le dernier commit (de force)
 
-```sh 
+```sh
 git reset --hard HEAD^
 ```
 
-```
+```sh
 git push --force
 ```
 

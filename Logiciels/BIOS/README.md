@@ -18,4 +18,4 @@
 - Paramètres
 - Système
 - Récupération
-- Cliquer sur `Redémarrer maintenant` dans le cadre Démarrage avancé 
+- Cliquer sur `Redémarrer maintenant` dans le cadre Démarrage avancé

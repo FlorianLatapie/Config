@@ -22,7 +22,7 @@ Il est possible de changer le nom du périphérique seulement s'il est à porté
 
 Désactivez l'option `PIN de la carte SIM` et entrez une dernière fois votre code PIN de carte SIM
 
-| ![image][code_sim_1] | ![image][code_sim_2] | 
+| ![image][code_sim_1] | ![image][code_sim_2] |
 |----------------------|----------------------|
 | ![image][code_sim_3] | ![image][code_sim_4] |
 
@@ -62,7 +62,7 @@ Activez l'option `Activer dictée` dans l'encadré `DICTÉE`
 
 ### Mes commandes
 
-`Réglages > Centre de contrôle `
+`Réglages > Centre de contrôle`
 
 - Mode économie d'énergie
 - Lampe torche
@@ -123,7 +123,7 @@ L'option peut, ne pas apparaître selon le modèle ou l'opérateur :
 |-----------|------------|
 | Bouygues  | Oui        |
 | SFR       | Oui        |
-| Orange    | ?          | 
+| Orange    | ?          |
 | Free      | Fin 2022   |
 
 | ![image][appels_wifi_1] | ![image][appels_wifi_2] | ![image][appels_wifi_3] |

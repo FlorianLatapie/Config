@@ -1,13 +1,13 @@
 # Config
 
-# [Linux](linux/Readme.md) <!-- volontairement en minuscule pour que ce soit plus simple à naviguer en CLI-->
+## [Linux](linux/Readme.md) <!-- volontairement en minuscule pour que ce soit plus simple à naviguer en CLI-->
 
-# [Windows](Windows/Readme.md)
+## [Windows](Windows/Readme.md)
 
-# [iOS](iOS/Readme.md)
+## [iOS](iOS/Readme.md)
 
-# [Logiciels](Logiciels/Readme.md)
+## [Logiciels](Logiciels/Readme.md)
 
-# [Langages de programmation](Langages/Readme.md)
+## [Langages de programmation](Langages/Readme.md)
 
-# [Matériel](Materiel/Readme.md)
+## [Matériel](Materiel/Readme.md)

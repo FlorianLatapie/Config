@@ -33,39 +33,39 @@ Disposition que nous allons appliquer :
 
 |         | Stack Overflow |    C     |    V     |
 |---------|:--------------:|:--------:|:--------:|
-| Layer 0 |     MO(1)      | RGB_MOD  | RGB_HUI  | 
+| Layer 0 |     MO(1)      | RGB_MOD  | RGB_HUI  |
 | Layer 1 |    KC_TRNS     | MACRO(0) | MACRO(1) |
 
-**Modification touches**
+##### Modification touches
 
 Layer 0 :
 Sélectionnez la couche `0` (`Select a layer to modify.`)
 
 - Cliquez sur la première touche (`1` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `MO()` (Changer de layer momentanément, dans la
+  - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `MO()` (Changer de layer momentanément, dans la
       layer de destination il faut le key code `KC_TRNS`)
-    - Dans le menu qui vient de s'afficher, choisissez `Layer 1`
+  - Dans le menu qui vient de s'afficher, choisissez `Layer 1`
 - Cliquez sur la deuxième touche (`2` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `LIGHTING` : `RGB_MOD`
+  - Dans `Configure the selected key.` choisissez dans l'onglet `LIGHTING` : `RGB_MOD`
 
       (passer d'un mode à l'autre : `RGB_MODE_PLAIN`, `RGB_MODE_BREATHE`, `RGB_MODE_RAINBOW`, `RGB_MODE_SWIRL`
       , `RGB_MODE_SNAKE`, `RGB_MODE_KNIGHT`, `RGB_MODE_XMAS`, `RGB_MODE_GRADIENT`)
 
 - Cliquez sur la troisième touche (`3` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `LIGHTING` : `RGB_HUI` (augmenter la teinte de la
+  - Dans `Configure the selected key.` choisissez dans l'onglet `LIGHTING` : `RGB_HUI` (augmenter la teinte de la
       couleur)
 
 Layer 1 :
 Sélectionnez la couche `1` (`Select a layer to modify.`)
 
 - Cliquez sur la première touche (`TRNS` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `PRIMARY` : `TRNS`
+  - Dans `Configure the selected key.` choisissez dans l'onglet `PRIMARY` : `TRNS`
 - Cliquez sur la deuxième touche (`TRNS` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `M()`
-    - Dans le menu qui vient de s'afficher, choisissez la macro `0`
+  - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `M()`
+  - Dans le menu qui vient de s'afficher, choisissez la macro `0`
 - Cliquez sur la troisième touche (`TRNS` par défaut)
-    - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `M()`
-    - Dans le menu qui vient de s'afficher, choisissez la macro `1`
+  - Dans `Configure the selected key.` choisissez dans l'onglet `FN` : `M()`
+  - Dans le menu qui vient de s'afficher, choisissez la macro `1`
 
 #### Onglet `MACROS`
 

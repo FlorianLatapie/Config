@@ -9,10 +9,11 @@ La commande suivante permet de les installer, elle lance une fenêtre Google Chr
 
 ```sh
 ./ubuntu_gnome_extensions.sh
-```	
+```
 
-## Installation de GitHub CLI 
-```sh 
+## Installation de GitHub CLI
+
+```sh
 # GitHub CLI 
 # source : https://github.com/cli/cli/blob/trunk/docs/install_linux.md
 echo -e "\nInstall gh\n"
@@ -21,7 +22,8 @@ curl -fsSL https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo 
 echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list > /dev/null
 sudo apt update
 sudo apt install gh -y
-```	
+```
 
-## Autres fichiers 
+## Autres fichiers
+
 - [wsl_run.sh](wsl_run.sh) : Ajoute un appel a `update` au lancement de chaque bash

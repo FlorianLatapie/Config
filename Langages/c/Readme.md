@@ -48,7 +48,7 @@ int main()
 
 Et en effet quand on compile le programme on obtient :
 
-```sh 
+```sh
 $ gcc -w -o code code.c && ./code
 ???
 ```

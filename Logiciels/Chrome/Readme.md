@@ -11,19 +11,20 @@ Source : [Bookmarklet to append a string to the end of a URL par cazepeda-zz](ht
 1. Créer un favori
 2. Modifier la cible du favori pour qu'il pointe vers le lien :
 
-```javascript
-javascript:window.location.href=window.location.href+'CHANGEZ MOI';
-```
+    ```javascript
+    javascript:window.location.href=window.location.href+'CHANGEZ MOI';
+    ```
 
 3. Sauvegarder le favori
 
 Cela est notamment utile pour ajouter des paramètres à un lien ou pour voir les Stargazers d'un projet sur GitHub.
 
-```javascript	
+```javascript
 javascript:window.location.href = window.location.href + '/stargazers';
 ```
 
-Autre exemple : 
-```javascript	
+Autre exemple :
+
+```javascript
 javascript:window.location.href = window.location.href.includes(".com/") ? window.location.href.replace(".com/",".dev/") : window.location.href.replace(".dev/",".com/")
 ```
