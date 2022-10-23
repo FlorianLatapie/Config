@@ -8,10 +8,12 @@
   IA pour jouer aux échecs.
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) :
   Utilitaire pour générer un fichier de récupération de Chromebook et créer une clé USB bootable ChromeOS.
+- [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn)
 - [Grammar Spell Checker – LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji) :
   Extension pour vérifier la grammaire de toutes les boites d'entrée de texte, fonctionne en français et en anglais.
 - [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph) :
   OCR sur la page web.
+- [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci)
 - [Google Analytics Opt-out](https://chrome.google.com/webstore/detail/google-analytics-opt-out/fllaojicojecljbmefodhfapmkghcbnh) :
   Désactiver Google Analytics.
 - [GoFullPage](https://chrome.google.com/webstore/detail/gofullpage-full-page-scre/fdpohaocaechififmbbbbbknoalclacl) :
@@ -30,11 +32,13 @@
 - [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh)
 - [Keepa](https://chrome.google.com/webstore/detail/keepa-amazon-price-tracke/neebplgakaahbhdphmkckjjcegoiijjo) :
   Historique des prix Amazon.
+- [Lovely forks](https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib) : Affiche le fork le plus populaire d'un dépôt GitHub.
 - [The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo) : Historique
   des prix Amazon.
 - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 - [Material Freebox OS](https://chrome.google.com/webstore/detail/material-freebox-os/lhdfonhgkclaigpfmclbahllambeednh) :
   Skin de Freebox OS.
+- [Material Icons for GitHub](https://chrome.google.com/webstore/detail/material-icons-for-github/bggfcpfjbdkhfhfmkjpbhnkhnpjjeomc)
 - [Picture in Picture (by Google)](https://chrome.google.com/webstore/detail/picture-in-picture-extens/hkgfoiooedgoejojocmhlaklaeopbecg)
 - [QR Code Generator and Reader](https://chrome.google.com/webstore/detail/qr-code-generator-and-rea/hkojjajclkgeijhcmfjcjkddfjpaimek)
 - [Return YouTube Dislike](https://chrome.google.com/webstore/detail/return-youtube-dislike/gebbhagfogifgggkldgodflihgfeippi)
