@@ -1,4 +1,4 @@
-# Markdown 
+# Markdown
 
 ## Markdown pur
 
@@ -14,19 +14,22 @@
 
 ### HTML
 
-#### Texte rétractable 
+#### Texte rétractable
+
 [Source](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 ```md
 <details><summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
-  ### Some Code
+### Heading
+
+1. Foo
+2. Bar
+    * Baz
+    * Qux
+
+### Some Code
+
   ```js
   function logSomething(something) {
     console.log('Something', something);
@@ -38,15 +41,18 @@
 <details><summary>Click me</summary>
 
 ### Heading
+
 1. Foo
 2. Bar
     * Baz
     * Qux
 
 ### Some Code
+
   ```js
   function logSomething(something) {
     console.log('Something', something);
-  }
+}
   ```
+
 </details>
