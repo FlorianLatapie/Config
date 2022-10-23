@@ -4,9 +4,7 @@
 
 ```sh
 git reset --hard HEAD^
-```
 
-```sh
 git push --force
 ```
 
@@ -14,9 +12,7 @@ git push --force
 
 ```sh
 git log
-```
 
-```sh
 git checkout <sha1 du commit>
 ```
 
@@ -38,4 +34,35 @@ Source : [How do I make Git forget about a file that was tracked, but is now in 
 ```sh
 git rm -r --cached .
 git add .
+```
+
+## Changer le nom d'un ancien commit
+
+Source : [How to Change a Git Commit Message | Linuxize](https://linuxize.com/post/change-git-commit-message/)
+
+```sh
+git rebase -i HEAD~<nombre de commits a remonter>
+```
+
+Il doit être affiché un éditeur de texte avec les commits à modifier. Il faut remplacer `pick` par `reword` pour le commit à modifier.
+
+Exemple :
+
+```txt
+pick <sha du commit> mon commit à modifier
+```
+
+Changement de `pick` en `reword` :
+
+
+```txt
+reword <sha du commit> mon commit à modifier
+```
+
+Pour chaque commit noté `reword`, il faut modifier le message de commit, puis sauvegarder et quitter l'éditeur de texte.
+
+Enfin il faut focer le commit : 
+
+```sh
+git push --force
 ```
