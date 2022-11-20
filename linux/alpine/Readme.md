@@ -10,3 +10,16 @@ Lancez la commande
 ```sh
 ./run.sh 
 ```
+
+## Installation fraiche
+
+Lancez les commandes
+
+```sh
+apk update
+apk upgrade
+
+apk add git
+
+git clone https://github.com/FlorianLatapie/Config.git
+```

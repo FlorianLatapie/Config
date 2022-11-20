@@ -1,10 +1,5 @@
-#!/usr/bin/env bash
-
 apk update
 apk upgrade
-
-### logiciels ###
-##    utile    ##
 
 # nano : éditeur de texte
 echo -e "\nInstall nano\n"
@@ -25,7 +20,3 @@ apk add neofetch
 # navigateur web en ligne de commande
 echo -e "\nInstall links\n"
 apk add links 
-
-# GitHub CLI 
-echo -e "\nInstall gh\n"
-apk add github-cli
