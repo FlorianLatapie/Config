@@ -95,6 +95,25 @@ Sortie :
 3
 ```
 
+## Boucles while
+
+```sh
+i=0
+while [ $i -lt 3 ]
+do
+    echo $i
+    i=$((i+1))
+done
+```
+
+Sortie :
+
+```sh
+0
+1
+2
+```
+
 ## Conditions
 
 ```sh
