@@ -31,6 +31,10 @@ Une solution en ligne de commande est possible et est donnée dans la source.
 
 Source : [How do I make Git forget about a file that was tracked, but is now in .gitignore?](https://stackoverflow.com/a/19095988)
 
+Trouver de bons .gitignore : [github.com/github/gitignore](https://github.com/github/gitignore)
+
+Une fois le `.gitignore` créé, avant de push utilisez cette commande : cela supprimera les fichiers maintenant ignorés sur le serveur Git
+
 ```sh
 git rm -r --cached .
 git add .
