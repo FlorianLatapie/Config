@@ -40,6 +40,12 @@ git rm -r --cached .
 git add .
 ```
 
+Et enfin 
+
+```sh
+git commit -am "Suppression des fichiers ignorés"
+```
+
 ## Changer le nom d'un ancien commit
 
 Source : [How to Change a Git Commit Message | Linuxize](https://linuxize.com/post/change-git-commit-message/)
