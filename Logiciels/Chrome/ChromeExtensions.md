@@ -4,6 +4,7 @@
   par Google pour avertir lorsque l'on se connecte à l'un de leurs sites, afin d'éviter l'hameçonnage.
 - [Amazon Assistant for Chrome](https://chrome.google.com/webstore/detail/amazon-assistant-for-chro/pbjikboenpfhbbejgkoklgkhjpfogcam)
 - [Charcoal Dark Mode for Messenger](https://chrome.google.com/webstore/detail/charcoal-dark-mode-for-me/aaekanoannlhnajolbijaoflfhikcgng)
+- [ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) : ChatGPT affiché à côté du résultat de la recherche Google.
 - [Chessvision.ai Chess](https://chrome.google.com/webstore/detail/chessvisionai-chess-posit/johejpedmdkeiffkdaodgoipdjodhlld) :
   IA pour jouer aux échecs.
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) :
@@ -24,7 +25,7 @@
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Honey Automatic Coupons](https://chrome.google.com/webstore/detail/honey-automatic-coupons-c/bmnlcjabgnpnenekpadlanbbkooimhnj)
 - [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) :
-  Refuser les cookies et ne pas afficher la boîte de dialogue demandant de les accepter.
+  ACCEPTER les cookies et ne pas afficher la boîte de dialogue demandant de les accepter.
 - [IGRAAL](https://chrome.google.com/webstore/detail/igraal-cashback-codes-pro/kmhkepipobnjllejbafajoemahjejdcm) :
   Coupons et réductions.
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) : Afficher les images en
