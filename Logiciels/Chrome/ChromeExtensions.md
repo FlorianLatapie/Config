@@ -10,6 +10,7 @@
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) :
   Utilitaire pour générer un fichier de récupération de Chromebook et créer une clé USB bootable ChromeOS.
 - [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn)
+- [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : REFUSE tous les cookies optionnels
 - [Grammar Spell Checker – LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji) :
   Extension pour vérifier la grammaire de toutes les boites d'entrée de texte, fonctionne en français et en anglais.
 - [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph) :
@@ -24,8 +25,6 @@
 - [Google Docs hors connexion](https://chrome.google.com/webstore/detail/google-docs-offline/ghbmnnjooekpmoecnnnilnnbdlolhkhi)
 - [Google Translate](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 - [Honey Automatic Coupons](https://chrome.google.com/webstore/detail/honey-automatic-coupons-c/bmnlcjabgnpnenekpadlanbbkooimhnj)
-- [I don't care about cookies](https://chrome.google.com/webstore/detail/i-dont-care-about-cookies/fihnjjcciajhdojfnbdddfaoknhalnja) :
-  ACCEPTER les cookies et ne pas afficher la boîte de dialogue demandant de les accepter.
 - [IGRAAL](https://chrome.google.com/webstore/detail/igraal-cashback-codes-pro/kmhkepipobnjllejbafajoemahjejdcm) :
   Coupons et réductions.
 - [Imagus](https://chrome.google.com/webstore/detail/imagus/immpkjjlgappgfkkfieppnmlhakdmaab) : Afficher les images en
