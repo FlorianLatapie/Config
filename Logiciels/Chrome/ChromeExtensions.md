@@ -11,8 +11,6 @@
   Utilitaire pour générer un fichier de récupération de Chromebook et créer une clé USB bootable ChromeOS.
 - [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn)
 - [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : REFUSE tous les cookies optionnels
-- [Grammar Spell Checker – LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji) :
-  Extension pour vérifier la grammaire de toutes les boites d'entrée de texte, fonctionne en français et en anglais.
 - [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph) :
   OCR sur la page web.
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci)
@@ -36,6 +34,7 @@
   fork le plus populaire d'un dépôt GitHub.
 - [The Camelizer](https://chrome.google.com/webstore/detail/the-camelizer/ghnomdcacenbmilgjigehppbamfndblo) : Historique
   des prix Amazon.
+- [LanguageTool](https://chrome.google.com/webstore/detail/grammar-spell-checker-%E2%80%94-l/oldceeleldhonbafppcapldpdifcinji) : Extension pour vérifier la grammaire de toutes les boites d'entrée de texte, fonctionne en français et en anglais.
 - [Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-viewer/ckkdlimhmcjmikdlpkmbgfkaikojcbjk)
 - [Material Freebox OS](https://chrome.google.com/webstore/detail/material-freebox-os/lhdfonhgkclaigpfmclbahllambeednh) :
   Skin de Freebox OS.
