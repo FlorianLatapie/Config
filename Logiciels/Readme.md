@@ -6,6 +6,8 @@
 
 ## [Git](Git/Readme.md)
 
+## [Google Docs](GoogleDocs/Readme.md)
+
 ## [GWSL](GWSL/Readme.md)
 
 ## [IDE JetBrains](IDEJetBrains/Readme.md)
