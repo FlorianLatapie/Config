@@ -2,11 +2,25 @@
 
 ## Plugins
 
-- GitHub Copilot
-- Nyan Progress Bar
-- Rainbow Brackets
-- Rainbow CSV
-- SonarLint
+```txt
+GitHub Copilot
+```
+
+```txt
+Nyan Progress Bar
+```
+
+```txt
+Rainbow Brackets
+```
+
+```txt
+Rainbow CSV
+```
+
+```txt
+SonarLint
+```
 
 ## Raccourcis clavier
 
