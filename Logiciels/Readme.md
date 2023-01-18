@@ -6,7 +6,7 @@
 
 ## [Git](Git/Readme.md)
 
-## [Google Docs](GoogleDocs/Readme.md)
+## [Google Docs Editors](GoogleDocsEditors/Readme.md)
 
 ## [GWSL](GWSL/Readme.md)
 
