@@ -10,7 +10,8 @@
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) :
   Utilitaire pour générer un fichier de récupération de Chromebook et créer une clé USB bootable ChromeOS.
 - [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn)
-- [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : REFUSE tous les cookies optionnels
+- [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : **refuse** tous les cookies optionnels
+- [DNS over Wikipedia](https://chrome.google.com/webstore/detail/dns-over-wikipedia/mjmjpfncapfopnommmngnmjalkopljji) : Trouver les domaines `.idk/` en utilisant l'URL fournie par la page Wikipédia pour un sujet donné (utile pour Sci-Hub)
 - [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph) :
   OCR sur la page web.
 - [GitHub Repository Size](https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci)
@@ -58,8 +59,8 @@
 - [Trim IMDb Ratings on Netflix](https://chrome.google.com/webstore/detail/trim-imdb-ratings-on-netf/lpgajkhkagnpdjklmpgjeplmgffnhhjj)
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) : Bloqueur
   de pubs.
-- [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) : Permet de lire les
-  articles de recherche payants sans avoir à payer.
+- [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) : Permet de lire les articles de recherche payants sans avoir à payer.
+- [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) : Réimplémente les boutons "Voir l'image" dans la recherche google pour accéder directement à la source d'une image. 
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) :
   Analyseur de technologies d'un site web.
 - [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) : Permet de voir les
