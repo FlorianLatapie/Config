@@ -2,7 +2,7 @@
 
 ## [Config](Config/Readme.md)
 
-## [Logiciels](Logiciels/Readme.md)
+## [Scripts](Scripts/Readme.md)
 
 ## [Troubleshooting](Troubleshooting/Readme.md)
 
