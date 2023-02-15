@@ -41,3 +41,12 @@ cmd /c commande
 ```cmd
 cmd /k commande
 ```
+
+## Dossier contenant toutes les application (même celles installées par le Windows Store)
+
+Lancez "Exécuter" : `Win` + `R`
+Puis entrez :
+
+```cmd
+shell:AppsFolder
+```
