@@ -60,7 +60,7 @@
 - [Ublock Origin](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) : Bloqueur
   de pubs.
 - [Unpaywall](https://chrome.google.com/webstore/detail/unpaywall/iplffkdpngmdjhlpjmppncnlhomiipha) : Permet de lire les articles de recherche payants sans avoir à payer.
-- [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) : Réimplémente les boutons "Voir l'image" dans la recherche google pour accéder directement à la source d'une image. 
+- [View Image](https://chrome.google.com/webstore/detail/view-image/jpcmhcelnjdmblfmjabdeclccemkghjk) : Réimplémente les boutons "Voir l'image" dans la recherche Google pour accéder directement à la source d'une image. 
 - [Wappalyzer](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) :
   Analyseur de technologies d'un site web.
 - [Whatfont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm) : Permet de voir les

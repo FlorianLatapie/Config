@@ -42,7 +42,7 @@ cmd /c commande
 cmd /k commande
 ```
 
-## Dossier contenant toutes les application (même celles installées par le Windows Store)
+## Dossier contenant toutes les applications (même celles installées par le Windows Store)
 
 Lancez "Exécuter" : `Win` + `R`
 Puis entrez :

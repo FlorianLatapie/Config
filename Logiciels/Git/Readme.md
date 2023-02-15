@@ -27,13 +27,13 @@ Source : [GitHub: How to make a fork of public repository private?](https://stac
 
 Une solution en ligne de commande est possible et est donnée dans la source.
 
-## Mettre à jour le .gitignore et supprimer les anciens fichiers
+## Mettre à jour le `.gitignore` et supprimer les anciens fichiers
 
 Source : [How do I make Git forget about a file that was tracked, but is now in .gitignore?](https://stackoverflow.com/a/19095988)
 
 Trouver de bons .gitignore : [github.com/github/gitignore](https://github.com/github/gitignore)
 
-Une fois le `.gitignore` créé, avant de push utilisez cette commande : cela supprimera les fichiers maintenant ignorés sur le serveur Git
+Une fois le `.gitignore` créé, avant de `push` utilisez cette commande : cela supprimera les fichiers maintenant ignorés sur le serveur Git
 
 ```sh
 git rm -r --cached .
@@ -71,7 +71,7 @@ reword <sha du commit> mon commit à modifier
 
 Pour chaque commit noté `reword`, il faut modifier le message de commit, puis sauvegarder et quitter l'éditeur de texte.
 
-Enfin il faut focer le commit : 
+Enfin, il faut forcer le commit : 
 
 ```sh
 git push --force

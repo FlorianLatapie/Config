@@ -11,7 +11,7 @@ Commandes amusantes installées
 hollywood
 ```
 
-- `lolcat` : change la couleur de la commande `cat` en affichant le texte en arc en ciel
+- `lolcat` : change la couleur de la commande `cat` en affichant le texte en arc-en-ciel
 
 ```sh
 cat ~/.bashrc 

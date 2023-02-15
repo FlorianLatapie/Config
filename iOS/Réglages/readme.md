@@ -12,7 +12,7 @@
 
 `Réglages > Bluetooth > Nom`
 
-Il est possible de changer le nom du périphérique seulement s'il est à portée et connecté.
+Il est possible de changer le nom du périphérique seulement s'il est connecté.
 
 ## Données cellulaires
 
@@ -87,7 +87,7 @@ Activez l'option `Automatique` dans l'encadré `APPARENCE`
 
 ### Activer/désactiver True Tone
 
-Modifie la teinte des blancs pour s'adapter a l'environnement, pour un meilleur confort visuel,
+Modifie la teinte des blancs pour s'adapter à l'environnement, pour un meilleur confort visuel,
 mais les couleurs sont modifiées.
 
 `Réglages > Luminosité et affichage`
