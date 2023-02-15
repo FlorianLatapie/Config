@@ -8,8 +8,9 @@
 
 ## [PCs](PCs/Readme.md)
 
+## [Logiciels](Logiciels/Readme.md)
+
 ## Autre
 
 - [Commandes utiles](CommandesUtiles.md)
-- [Logiciels utiles](LogicielsUtiles.md)
-- [Raccourcis](Raccourcis.md)
+- [Raccourcis clavier](RaccourcisClavier.md)

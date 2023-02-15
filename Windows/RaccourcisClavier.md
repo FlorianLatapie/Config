@@ -2,7 +2,7 @@
 
 ## Lancer le cmd en administrateur
 
-- `Win + X`
+- `Win` + `X`
 - `A`
 - `Gauche`
 - `Entrée`
