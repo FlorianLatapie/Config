@@ -2,7 +2,7 @@
 
 ## Config winget
 
-```cmd
+```console
 winget import winget_polypc.json
 winget import winget_polypc_cours.json
 ```

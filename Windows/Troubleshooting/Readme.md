@@ -6,6 +6,6 @@ Si un fichier n'est pas supprimable même en administrateur : il pourrait être 
 
 [À lancer en administrateur](../RaccourcisClavier.md#Lancer-le-cmd-en-administrateur) :
 
-```cmd
+```console
 chkdsk c: /f /r
 ```

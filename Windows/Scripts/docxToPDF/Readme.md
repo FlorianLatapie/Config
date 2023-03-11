@@ -7,7 +7,7 @@ Source : [How to Batch Convert Word Documents into PDF Files » WinHelpOnline][s
 - Créez un raccourci vers [docxToPDF.vbs](./docxToPDF.vbs)
 - Copiez le dans le dossier :
 
-```cmd
+```console
 C:\Users\%username%\AppData\Roaming\Microsoft\Windows\SendTo
 ```
 

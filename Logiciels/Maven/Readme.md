@@ -13,7 +13,7 @@ Le script se trouve ici : [mvn_win_install.cmd](https://gist.github.com/FlorianL
 
 ## Générer un exécutable jar avec JavaFX
 
-```cmd
+```console
 mvn javafx:jlink
 ```
 
