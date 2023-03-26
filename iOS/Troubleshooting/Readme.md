@@ -3,7 +3,7 @@
 ## Entrer en mode DFU (Device Firmware Update)
 
 - Lancer iTunes
-- Brancher l'iPhone/IPad/iPod sur l'ordinateur
+- Brancher l'iPhone/iPad/iPod sur l'ordinateur
 - Appuyer une fois sur volume +
 - Appuyer une fois sur volume -
 - Maintenir le bouton verrouiller enfoncé jusqu'à ce que l'icône DFU apparaisse (maintenir appuyé sur le bouton même si
