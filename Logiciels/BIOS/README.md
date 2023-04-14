@@ -2,10 +2,10 @@
 
 ## Tous OS
 
-|           | BIOS              | Boot Menu |
-|:---------:|:-----------------:|:---------:|
-| Dell      | `F2`              |   `12`    |
-| Microsoft | `Volume bas` + On |  ?        |
+|           | BIOS               | Boot Menu |
+|:---------:|:------------------:|:---------:|
+| Dell      | `F2`               |   `12`    |
+| Microsoft | `Volume haut` + On |  ?        |
 
 ## Redémarrage depuis Windows 10
 
