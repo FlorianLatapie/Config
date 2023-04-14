@@ -4,7 +4,7 @@
 
 |           | BIOS               | Boot Menu |
 |:---------:|:------------------:|:---------:|
-| Dell      | `F2`               |   `12`    |
+| Dell      | `F2`               |   `F12`   |
 | Microsoft | `Volume haut` + On |  ?        |
 
 ## Redémarrage depuis Windows 10
