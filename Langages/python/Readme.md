@@ -20,5 +20,8 @@ Source : [python - Automatically create requirements.txt - Stack Overflow](https
 
 ```bash
 pip install pipreqs
+```
+
+```bash
 pipreqs /chemin/vers/le/projet
 ```
