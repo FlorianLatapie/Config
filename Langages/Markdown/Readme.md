@@ -12,7 +12,7 @@
 
 ### Encarts de note et d'avertissement
 
-[Source](https://github.com/orgs/community/discussions/16925)
+[Source](https://github.com/orgs/community/discussions/16925) et [précisions](https://github.com/orgs/community/discussions/16925#discussioncomment-2827410)
 
 ```md
 > **Note**
