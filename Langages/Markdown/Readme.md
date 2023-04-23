@@ -10,6 +10,24 @@
 
 [![BetterClock](https://user-images.githubusercontent.com/70631622/169669787-4f5f1fe4-e05e-4a92-9165-aa7932a0962c.png)](https://github.com/FlorianLatapie/BetterClock)
 
+### Encarts de note et d'avertissement
+
+[Source](https://github.com/orgs/community/discussions/16925)
+
+```md
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+```
+
+> **Note**
+> This is a note
+
+> **Warning**
+> This is a warning
+
 ## Markdown cursed
 
 ### HTML
@@ -56,3 +74,4 @@
   ```
 
 </details>
+
