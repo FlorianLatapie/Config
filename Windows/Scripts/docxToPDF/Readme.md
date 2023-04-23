@@ -17,7 +17,8 @@ C:\Users\%username%\AppData\Roaming\Microsoft\Windows\SendTo
 - Choisir `Envoyer vers ...`
 - Choisir `Convertir en pdf`
 
-(Attention les fichiers `.docx` doivent être fermés avant de convertir)
+> **Note**
+> Les fichiers `.docx` doivent être fermés avant de convertir
 
 <!-- Sources -->
 
