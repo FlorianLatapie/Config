@@ -1,5 +1,22 @@
 # Config pour Windows 🐱‍👤
 
+- [Config pour Windows 🐱‍👤](#config-pour-windows-)
+  - [Bouton `Mettre en veillle prolongée` dans le menu démarrer](#bouton-mettre-en-veillle-prolongée-dans-le-menu-démarrer)
+  - [Changer la taille de la barre des taches Windows 11](#changer-la-taille-de-la-barre-des-taches-windows-11)
+  - [Lancer l'Outil Capture d'écran avec la touche "Imprimer l'écran"](#lancer-loutil-capture-décran-avec-la-touche-imprimer-lécran)
+  - [Windows Sandbox](#windows-sandbox)
+  - [Se connecter](#se-connecter)
+
+
+## Bouton `Mettre en veillle prolongée` dans le menu démarrer
+
+- Panneau de configuration
+- Matériel et audio
+- Options d'alimentation
+  - Choisir l'action des boutons d'alimentation
+  - Modifier les paramètres actuellement non disponibles
+  - Cocher `Veille prolongée`
+
 ## Changer la taille de la barre des taches Windows 11
 
 - `Windows + R`
