@@ -7,7 +7,6 @@
   - [Windows Sandbox](#windows-sandbox)
   - [Se connecter](#se-connecter)
 
-
 ## Bouton `Mettre en veillle prolongée` dans le menu démarrer
 
 - Panneau de configuration

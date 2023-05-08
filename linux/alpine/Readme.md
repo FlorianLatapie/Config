@@ -1,6 +1,6 @@
 # Alpine linux
 
-Dans ce dossier est contenu les fichiers de configuration pour l'installation de l'alpine linux, spécifiquement pour iSH
+Dans ce dossier est contenu les fichiers de configuration pour l'installation d'Alpine Linux, spécifiquement pour iSH
 sur iOS.
 
 ## Lancer
@@ -11,7 +11,7 @@ Lancez la commande
 ./run.sh 
 ```
 
-## Installation fraiche
+## Nouvelle installation
 
 Lancez les commandes
 
