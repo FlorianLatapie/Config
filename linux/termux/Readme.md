@@ -34,6 +34,7 @@ git clone https://github.com/FlorianLatapie/Config.git
 
 ```sh
 cd Config/linux/termux
+chmod u+x termux_install.sh
 chmod u+x run.sh
 ./run.sh
 ```
