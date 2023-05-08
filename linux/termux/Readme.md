@@ -12,6 +12,9 @@ Lancez la commande
 
 ## Nouvelle installation
 
+Téléchargez Termux sur depuis F-Droid depuis ce lien :  
+[Termux | F-Droid - Free and Open Source Android App Repository](https://f-droid.org/packages/com.termux/)
+
 Lancez les commandes
 
 ```sh
