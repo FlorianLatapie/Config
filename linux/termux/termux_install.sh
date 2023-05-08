@@ -37,7 +37,8 @@ pip install ipython
 ## Ruby (for lolcat)
 echo -e "\nInstalling Ruby\n"
 apt install ruby -y
-gem update --system
+# uncomment if you want to update ruby to the latest version
+# gem update --system
 
 # VSCode server (VSCode in the browser)
 # VSCode over SSh doesn't work yet on Termux : https://github.com/microsoft/vscode-remote-release/issues/1338
