@@ -18,8 +18,8 @@ Téléchargez Termux sur depuis F-Droid depuis ce lien :
 Lancez les commandes
 
 ```sh
-apt update
-apt upgrade -y
+yes | apt update
+yes | apt upgrade -y
 ```
 
 
