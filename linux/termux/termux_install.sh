@@ -35,6 +35,7 @@ apt install python -y
 pip install ipython -y
 
 ## Ruby (for lolcat)
+echo -e "\nInstalling Ruby\n"
 apt install ruby -y
 gem update --system
 
@@ -42,6 +43,7 @@ gem update --system
 # VSCode over SSh doesn't work yet on Termux : https://github.com/microsoft/vscode-remote-release/issues/1338
 # Source : https://coder.com/docs/code-server/latest/termux#install
 echo -e "\nInstalling VSCode server\n"
+pkg install tur-repo
 apt install code-server -y
 echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: false" > ~/.config/code-server/config.yaml
 
