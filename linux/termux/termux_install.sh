@@ -32,7 +32,7 @@ apt install ranger -y
 ## Python
 echo -e "\nInstalling Python\n"
 apt install python -y
-pip install ipython -y
+pip install ipython
 
 ## Ruby (for lolcat)
 echo -e "\nInstalling Ruby\n"
