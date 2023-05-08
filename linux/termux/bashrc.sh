@@ -1,2 +1,2 @@
-#sudo apt install ranger
-#alias ranger='. ranger'
+alias ranger='. ranger'
+alias cat='lolcat'
