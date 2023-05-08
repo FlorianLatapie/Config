@@ -9,7 +9,7 @@ apt install build-essential -y
 echo -e "\nInstalling OpenSSh\n"
 apt install openssh -y
 # termux : sshd
-# client : ssh u0_a254@<ip-addr> -p8022
+# client : ssh u0_aXXX@ip-addr -p8022
 
 # System infos 
 echo -e "\nInstalling neofetch\n"
@@ -46,6 +46,7 @@ apt install ruby -y
 echo -e "\nInstalling VSCode server\n"
 pkg install tur-repo
 apt install code-server -y
+bash
 echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: false" > ~/.config/code-server/config.yaml
 
 # lolcat color the cat command
