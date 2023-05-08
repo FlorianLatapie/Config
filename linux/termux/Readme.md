@@ -21,4 +21,8 @@ apt upgrade -y
 apt install git -y
 
 git clone https://github.com/FlorianLatapie/Config.git
+
+cd Config/linux/termux
+chmod u+x run.sh
+./run.sh
 ```
