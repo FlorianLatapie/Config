@@ -40,6 +40,7 @@ gem update --system
 
 # VSCode server (VSCode in the browser)
 # VSCode over SSh doesn't work yet on Termux : https://github.com/microsoft/vscode-remote-release/issues/1338
+# Source : https://coder.com/docs/code-server/latest/termux#install
 echo -e "\nInstalling VSCode server\n"
 apt install code-server -y
 echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: false" > ~/.config/code-server/config.yaml
