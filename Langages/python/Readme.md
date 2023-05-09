@@ -4,13 +4,13 @@
 
 Windows
 
-```bash
+```console
 python -m pip install --upgrade pip
 ```
 
 Linux
 
-```bash
+```console
 pip install --upgrade pip
 ```
 
@@ -18,10 +18,18 @@ pip install --upgrade pip
 
 Source : [python - Automatically create requirements.txt - Stack Overflow](https://stackoverflow.com/a/31684470)
 
-```bash
+### Ajouter requirements.txt
+
+```console
 pip install pipreqs
 ```
 
-```bash
+```console
 pipreqs /chemin/vers/le/projet
+```
+
+### Utiliser requirements.txt
+
+```console
+pip install -r requirements.txt
 ```
