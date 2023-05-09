@@ -46,7 +46,8 @@ apt install ruby -y
 echo -e "\nInstalling VSCode server\n"
 pkg install tur-repo
 apt install code-server -y
-bash
+
+mkdir -p ~/.config/code-server/
 echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: false" > ~/.config/code-server/config.yaml
 
 # lolcat color the cat command
