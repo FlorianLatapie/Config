@@ -53,3 +53,8 @@ echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: f
 # lolcat color the cat command
 echo -e "\nInstalling lolcat\n"
 gem install lolcat
+
+
+# GitHub CLI
+echo -e "\nInstalling gh\n"
+apt install gh
