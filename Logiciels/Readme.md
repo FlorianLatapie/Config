@@ -1,5 +1,7 @@
 # Logiciels
 
+## [Assistance rapide](AssistanceRapide/Readme.md)
+
 ## [BIOS](BIOS/README.md)
 
 ## [Chrome](Chrome/Readme.md)
