@@ -13,9 +13,9 @@ L'Assistance rapide est un logiciel permettant à un Assistant de se connecter �
 ## Utilisation
 
 1. Sélectionnez le bouton Démarrer, entrez Assistance rapide, puis sélectionnez-le dans la liste des résultats.  
-    Vous devirez voir l'un ou l'autre :  
-    ![menu démarrer](./menu_demarrer_w10.png)  
-    ![w11_demarrer_2](./menu_demarrer_w11.png)
+    Vous devriez voir l'un ou l'autre :  
+    ![Menu démarrer Windows 10, recherche du logiciel Assistance rapide](./menu_demarrer_w10.png)  
+    ![Menu démarrer Windows 11, recherche du logiciel Assistance rapide](./menu_demarrer_w11.png)
 
     S'il n'est pas présent, [téléchargez-le ici](https://www.microsoft.com/store/productId/9P7BP5VNWKX5) : Assistance rapide par Microsoft Corporation. dans le `Microsoft Store`.
 
