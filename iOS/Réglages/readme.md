@@ -115,21 +115,30 @@ trouvez dans le monde.
 
 ### Activer appels Wi-Fi
 
+> **Note**  
+> Disponible depuis : `iOS 16.2` 
+
 `Réglages > Téléphone > Appels WiFi`
 
 L'option peut, ne pas apparaître selon le modèle ou l'opérateur :
 
-| Opérateur | Disponible |
-|-----------|------------|
-| Bouygues  | Oui        |
-| SFR       | Oui        |
-| Orange    | ?          |
-| Free      | Fin 2022   |
+| Opérateur | Disponible | Infos supplémentaires                                                                  |
+|-----------|------------|----------------------------------------------------------------------------------------|
+| Bouygues  | Oui        | [Assistance Bouygues : VoWiFi : passer mes appels et SMS via le WiFi][VoWiFi_Bouygues] |
+| SFR       | Oui        |                                                                                        |
+| Orange    | Oui        | [Assistance Orange : Activer les appels Wi-Fi][VoWiFi_Orange]                          |
+| Free      | Oui        | [SFR Actus : Comment passer des appels en wifi ?][VoWiFi_SFR]                          |
 
 | ![image][appels_wifi_1] | ![image][appels_wifi_2] | ![image][appels_wifi_3] |
 |-------------------------|-------------------------|-------------------------|
 
 <!-- Sources -->
+
+[VoWiFi_Bouygues]:https://www.assistance.bouyguestelecom.fr/s/article/vowifi-appel-envoi-sms-wifi
+
+[VoWiFi_Orange]:https://assistance.orange.fr/univers-mobile/configurer/apple-iphone-13-pro/activer-les-appels-wifi
+
+[VoWiFi_SFR]:https://actus.sfr.fr/guide-et-comparatif/smartphones/comment-passer-des-appels-en-wifi-202112210003.html
 
 [appels_wifi_1]:https://user-images.githubusercontent.com/70631622/169761654-86e23530-0faf-4277-9683-910add1d54d6.png
 
