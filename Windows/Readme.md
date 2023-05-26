@@ -8,7 +8,7 @@
 
 ## [PCs](PCs/Readme.md)
 
-## [Logiciels](Logiciels/Readme.md)
+## [Logiciels installés](Logiciels/Readme.md)
 
 ## Autre
 
