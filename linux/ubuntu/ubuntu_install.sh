@@ -45,6 +45,10 @@ sudo apt install gedit -y
 echo -e "\nInstall g++\n"
 sudo apt install g++ -y
 
+echo -e "\nInstall make\n"
+sudo apt install make -y
+
+
 ## fun
 
 # colorer le cat 
