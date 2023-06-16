@@ -22,7 +22,12 @@ cat ~/.bashrc
 Lancez la commande
 
 ```sh
-./run.sh 
+git clone https://github.com/FlorianLatapie/Config.git
+cd Config/linux/ubuntu
+chmod -R 755 *
+#./run 
+# or
+#./wsl_run
 ```
 
 ## PCs
