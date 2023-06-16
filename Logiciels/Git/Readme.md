@@ -40,7 +40,7 @@ git rm -r --cached .
 git add .
 ```
 
-Et enfin 
+Et enfin
 
 ```sh
 git commit -am "Suppression des fichiers ignorés"
