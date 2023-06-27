@@ -8,9 +8,11 @@
 
 Explication (par Tom "zdimension" Niget ): Sur Unix/Linux, quand lance un fichier, l'OS va lire le début du fichier pour
 détecter une signature en entête.
-Si c'est un fichier binaire, l'OS va le lancer directement.
-Sinon il va vérifier si le fichier commence par un shebang (#!), si c'est le cas, il va lancer le programme
+
+- Si c'est un fichier binaire, l'OS va le lancer directement.
+- Sinon il va vérifier si le fichier commence par un shebang (`#!`), si c'est le cas, il va lancer le programme
 correspondant.
+
 Par exemple, si le fichier commence par `#!/usr/bin/env bash`, il va lancer la
 commande : `/usr/bin/env bash <nom_du_fichier>` de manière que le programme se lance en tant que programme exécutable.
 
