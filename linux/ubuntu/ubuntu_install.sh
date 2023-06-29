@@ -48,6 +48,9 @@ sudo apt install g++ -y
 echo -e "\nInstall make\n"
 sudo apt install make -y
 
+echo -e "\nInstall python3-pip\n"
+sudo apt install python3-pip -y
+
 
 ## fun
 
