@@ -1,68 +1,41 @@
 # MongoDB
 
-## Connect to MongoDB
+## Se connecter à MongoDB en utilisant Docker
 
-Find the container ID
-
-```bash
-docker ps
-```
-
-Connect to the container  
-Username and password are defined in the env/mongodb.env file
+### Depuis un terminal
 
 ```bash
  docker exec -it <container-id> mongosh --username <username> --password <password>
  ```
 
-Or from the docker desktop interface
+## Depuis Docker Desktop
 
-- Open the `Containers` tab
-- Double-click on `mongodb` container name
-- Click on `Terminal` tab
-- Finally type `mongosh --username <username> --password <password>`
-
-Inside mongosh :
-
-Show all databases
-
-```bash
- show dbs 
-```
-
-Use a database
-
-```bash
-use <database-name>
-```
-
-Display a table
-
-```bash
-db.<table-name>.find()
-```
+- Cliquez sur l'onglet `Containers`
+- Double-cliquez sur le conteneur `mongodb`
+- Cliquez sur l'onglet `Terminal`
+- Entrez la commande : `mongosh --username <username> --password <password>`
 
 ## MongoSh commands
 
-**Usage** : you first have a **_database_** that contains **_collections_** (tables) and the collections contain **_documents_** (rows)
+**Explications** : vous avez d'abord une **_database_** (base de données) qui contient des **_collections_** (tables) et les collections contiennent des **_documents_** (lignes)
 
 ### Database
 
-#### Show all databases
+#### Afficher les databases
 
-Shows only the databases that have at least one collection
+Affiche uniquement les bases de données qui ont au moins une collection
 
 ```bash
 show dbs
 ```
 
-#### Create a database
+#### Créer une database
 
 ```bash
 use <database-name>
 ```
 
-#### Delete a database
+#### Supprimer une database
 
 ```bash
 use <database-name>
@@ -71,19 +44,19 @@ db.dropDatabase()
 
 ### Collection
 
-#### Create a collection
-
-#### Show all collections
-
-```bash
-show collections
-```
+#### Créer une collection
 
 ```bash
 db.createCollection("<collection-name>")
 ```
 
-#### Delete a collection
+#### Afficher toutes les collections
+
+```bash
+show collections
+```
+
+#### Supprimer une collection
 
 ```bash
 db.<collection-name>.drop()
@@ -91,7 +64,7 @@ db.<collection-name>.drop()
 
 ### Document
 
-For the _C_, _U_ and _D_ of the _CRUD_ operations, it is preferable to do in your code and not in the mongo shell.
+Pour les opérations _C_, _U_ et _D_ du _CRUD_, il est préférable de le faire dans votre code et non dans mongoSh
 
 #### Show all documents
 
