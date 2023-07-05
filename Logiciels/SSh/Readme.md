@@ -4,43 +4,6 @@
 
 [Source](https://www.vultr.com/docs/how-to-install-openssh-on-windows-server-2019-or-2022/)
 
-- Open PowerShell as Administrator
-- Paste the following command and press Enter:
-
-    ```powershell
-    Add-WindowsCapability -Online -Name OpenSSH.Server
-    ```
-
-    you should see the following output:
-
-    ```powershell
-    Path          :
-    Online        : True
-    RestartNeeded : False
-    ```
-
-- Allow port 22 incoming connections in the firewall
-  - Open `Server Manager`
-  - In `Tools` menu select `Windows Defender Firewall with Advanced Security`
-  - Click on `Inbound Rules`
-  - On the right pannel click on `New Rule...`
-    - Rule Type: `Port`
-    - Port and Protocols:
-      - Does this rule apply to TCP or UDP? `TCP`
-      - Does this rule apply to all local ports or specific local ports? `Specific local ports` and enter `22`
-    - Action: `Allow the connection`
-    - Profile: `Domain`, `Private` and `Public`
-    - Name: `Allow SSh`
-    - Click on `Finish`
-- Start the SSH service
-  - Open powershell as Administrator and paste the following command :
-  
-  ```powershell
-  Start-Service sshd
-  ```
-
-you can now connect to the remote machine using SSH.
-
 - Ouvrez PowerShell en tant qu'administrateur et collez la commande suivante :
 
     ```powershell
