@@ -1,28 +1,39 @@
 # Docker
 
-## `docker` commands
+## commandes `docker`
 
-### See if any container is running
+### Voir les conteneurs est en cours d'exécution
 
 ```bash
 docker ps
 ```
 
-### Delete all containers
+### Supprimer tous les conteneurs
 
 ```bash
 docker rm $(docker ps -a -q)
 ```
 
-### Docker volumes
+### Voir les logs d'un conteneur
 
-#### Show docker volumes
+```bash
+docker logs [OPTIONS] <container_name>
+```
+
+Options utiles :
+
+- `-f` : suivre les logs en temps réel
+- `--tail <nombre>` : afficher les `nombre` dernières lignes
+
+### Volumes docker
+
+#### Afficher les volumes docker
 
 ```bash
 docker volume ls
 ```
 
-#### Delete all docker volumes
+#### Supprimer tous les volumes docker
 
 ```bash
 docker volume rm $(docker volume ls -q)
@@ -30,9 +41,9 @@ docker volume rm $(docker volume ls -q)
 
 ---
 
-## `docker-compose` commands
+## Commandes `docker-compose`
 
-### Delete a docker-compose stack
+### Supprimer un stack docker-compose
 
 In the directory where the `docker-compose.yml` file is located, run the following command:
 
