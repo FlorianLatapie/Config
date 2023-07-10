@@ -1,5 +1,19 @@
 # Docker
 
+## Informations utiles
+
+Source : [mongo - Official Image | Docker Hub](https://hub.docker.com/_/mongo)
+
+Quand un conteneur est démaré pour la première fois, il exécute les fichiers avec les extensions `*.sh` et `*.js` qui sont trouvés dans `/docker-entrypoint-initdb.d/`.
+
+## Installer docker sur linux
+
+```bash
+curl -fsSL https://get.docker.com | sh
+```
+
+N'oubliez pas de démarrer le service docker (`systemctl start docker`)
+
 ## commandes `docker`
 
 ### Voir les conteneurs est en cours d'exécution
@@ -50,17 +64,3 @@ Dans le dossier où se trouve le fichier `docker-compose.yml`, exécutez la comm
 ```bash
 docker-compose down
 ```
-
-## Informations utiles
-
-Source : [mongo - Official Image | Docker Hub](https://hub.docker.com/_/mongo)
-
-Quand un conteneur est démaré pour la première fois, il exécute les fichiers avec les extensions `*.sh` et `*.js` qui sont trouvés dans `/docker-entrypoint-initdb.d/`.
-
-## Installer docker sur linux
-
-```bash
-curl -fsSL https://get.docker.com | sh
-```
-
-N'oubliez pas de démarrer le service docker (`systemctl start docker`)
