@@ -28,6 +28,12 @@ docker ps
 docker rm $(docker ps -a -q)
 ```
 
+### Accéder au shell d'un conteneur
+
+```bash
+docker exec -it <container_name> bash
+```
+
 ### Voir les logs d'un conteneur
 
 ```bash
