@@ -64,15 +64,23 @@ pick <sha du commit> mon commit à modifier
 
 Changement de `pick` en `reword` :
 
-
 ```txt
 reword <sha du commit> mon commit à modifier
 ```
 
 Pour chaque commit noté `reword`, il faut modifier le message de commit, puis sauvegarder et quitter l'éditeur de texte.
 
-Enfin, il faut forcer le commit : 
+Enfin, il faut forcer le commit :
 
 ```sh
 git push --force
+```
+
+## Se connecter à git
+
+```sh
+git config --global user.name "<nom>"
+git config --global user.email "<email>"
+git config --global credential.helper store
+git config --global credential.helper 'cache --timeout=3600'
 ```
