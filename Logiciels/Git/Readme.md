@@ -8,6 +8,12 @@ git reset --hard origin/main
 git checkout -- .
 ```
 
+ou comme one liner
+
+```sh
+git fetch --all ; git reset --hard origin/main ; git checkout -- .
+```
+
 ## Supprimer le dernier commit (de force)
 
 ```sh
