@@ -1,11 +1,28 @@
 # Commandes Git utiles
 
+## Forcer la mise a jour d'un dépôt de origin/main vers sa copie locale
+
+```sh
+git fetch --all
+git reset --hard origin/main
+git checkout -- .
+```
+
 ## Supprimer le dernier commit (de force)
 
 ```sh
 git reset --hard HEAD^
 
 git push --force
+```
+
+## Se connecter à git
+
+```sh
+git config --global user.name "<nom>"
+git config --global user.email "<email>"
+git config --global credential.helper store
+git config --global credential.helper 'cache --timeout=3600'
 ```
 
 ## Changer l'emplacement de la "HEAD"
@@ -74,13 +91,4 @@ Enfin, il faut forcer le commit :
 
 ```sh
 git push --force
-```
-
-## Se connecter à git
-
-```sh
-git config --global user.name "<nom>"
-git config --global user.email "<email>"
-git config --global credential.helper store
-git config --global credential.helper 'cache --timeout=3600'
 ```
