@@ -70,3 +70,17 @@ Dans le dossier où se trouve le fichier `docker-compose.yml`, exécutez la comm
 ```bash
 docker-compose down
 ```
+
+### Stopper et relancer un seul conteneur d'un stack docker-compose
+
+#### Stopper le conteneur
+
+```bash
+docker-compose stop <container_name>
+```
+
+#### Relancer le conteneur
+
+```bash
+docker-compose up -d <container_name>
+```
