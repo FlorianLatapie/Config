@@ -1,14 +1,21 @@
 # Commandes Git utiles
 
+- [Commandes Git utiles](#commandes-git-utiles)
+  - [Forcer la mise a jour d'un dépôt de origin/main vers sa copie locale](#forcer-la-mise-a-jour-dun-dépôt-de-originmain-vers-sa-copie-locale)
+  - [Supprimer le dernier commit (de force)](#supprimer-le-dernier-commit-de-force)
+  - [Se connecter à git](#se-connecter-à-git)
+  - [Changer l'emplacement de la "HEAD"](#changer-lemplacement-de-la-head)
+  - [Importer un dépôt (pour faire un fork privé par exemple)](#importer-un-dépôt-pour-faire-un-fork-privé-par-exemple)
+  - [Mettre à jour le `.gitignore` et supprimer les anciens fichiers](#mettre-à-jour-le-gitignore-et-supprimer-les-anciens-fichiers)
+  - [Changer le nom d'un ancien commit](#changer-le-nom-dun-ancien-commit)
+  - [Comment utiliser les submodules Git](#comment-utiliser-les-submodules-git)
+    - [Ajouter un submodule à un dépôt](#ajouter-un-submodule-à-un-dépôt)
+    - [Cloner un dépôt avec des submodules](#cloner-un-dépôt-avec-des-submodules)
+    - [Commits](#commits)
+      - [Push](#push)
+      - [Pull](#pull)
+
 ## Forcer la mise a jour d'un dépôt de origin/main vers sa copie locale
-
-```sh
-git fetch --all
-git reset --hard origin/main
-git checkout -- .
-```
-
-ou comme one liner
 
 ```sh
 git fetch --all ; git reset --hard origin/main ; git checkout -- .
@@ -18,7 +25,9 @@ git fetch --all ; git reset --hard origin/main ; git checkout -- .
 
 ```sh
 git reset --hard HEAD^
+```
 
+```sh
 git push --force
 ```
 
@@ -98,3 +107,48 @@ Enfin, il faut forcer le commit :
 ```sh
 git push --force
 ```
+
+## Comment utiliser les submodules Git
+
+Sources :
+
+- [Git Submodules basic explanation par gitaarik](https://gist.github.com/gitaarik/8735255)
+- [Git - Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules)
+
+### Ajouter un submodule à un dépôt
+
+Dans le dossier git du dépôt parent, lancer la commande :
+
+```sh
+git submodule add <url>
+```
+
+Cette commande va créer un nouveau dossier avec le nom du dépôt
+
+ou
+
+```sh
+git submodule add <url> <nom du dossier>
+```
+
+### Cloner un dépôt avec des submodules
+
+```sh
+git clone --recurse-submodules <url>
+```
+
+### Commits
+
+#### Push
+
+```sh
+git push --recurse-submodules=on-demand
+```
+
+#### Pull
+
+```sh
+git pull --recurse-submodules
+```
+
+Si vous utilisez l'application GitHub Desktop, n'oubliez pas de push les submodules puis de push le dépôt parent.
