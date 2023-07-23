@@ -1,6 +1,16 @@
 # Python
 
-## Naming conventions
+## Utiliser des fichiers Python comme packages
+
+```py
+def main():
+    print("Hello World!")
+
+if __name__ == "__main__":
+    main()
+```
+
+## Conventions de nommage
 
 | Type     | Naming convention  |
 |----------|--------------------|
@@ -14,7 +24,7 @@
 
 Source : [Python PEP8 style guide Cheat Sheet by jmds - Cheatography.com](https://cheatography.com/jmds/cheat-sheets/python-pep8-style-guide/) and [PEP 8 – Style Guide for Python Code | peps.python.org](https://www.python.org/dev/peps/pep-0008/#naming-conventions)
 
-## Upgrade pip
+## Mettre à jour `pip`
 
 Windows
 
