@@ -73,13 +73,19 @@ docker-compose down
 
 ### Stopper et relancer un seul conteneur d'un stack docker-compose
 
+#### Relancer le conteneur
+
+```bash
+docker-compose restart <container_name>
+```
+
 #### Stopper le conteneur
 
 ```bash
 docker-compose stop <container_name>
 ```
 
-#### Relancer le conteneur
+#### Lancer le conteneur
 
 ```bash
 docker-compose up -d <container_name>
