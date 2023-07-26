@@ -11,6 +11,14 @@ Source : [How to Batch Convert Word Documents into PDF Files » WinHelpOnline][s
 C:\Users\%username%\AppData\Roaming\Microsoft\Windows\SendTo
 ```
 
+- Nommez ce raccourci :
+
+Ex :
+
+```txt
+Convertir en pdf
+```
+
 ## Comment l'utiliser
 
 - Clic droit sur un ou plusieurs fichiers `.docx`
