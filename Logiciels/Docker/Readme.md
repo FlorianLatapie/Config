@@ -64,19 +64,7 @@ docker volume rm $(docker volume ls -q)
 ## Commandes `docker compose`
 
 > **Warning**
-> This is a warning
-
-> [!WARNING] test  
-> Highlights information that users should take into account, even when skimming.
-
-> [!IMPORTANT]  
-> Crucial information necessary for users to succeed.
-
-> [!WARNING]  
-> Critical content demanding immediate user attention due to potential risks.
-
-
-`docker-compose` et `docker compose` sont deux commandes différentes et peuvent donc avoir des comportements différents.
+> `docker-compose` et `docker compose` sont deux commandes différentes et peuvent donc avoir des comportements différents.
 
 En effet, `docker compose` est la version la plus récente de `docker-compose` et est donc à privilégier.
 
