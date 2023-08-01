@@ -10,6 +10,12 @@ if __name__ == "__main__":
     main()
 ```
 
+## Ternaires
+
+```py
+<code si vrai> if <condition> else <code si faux>
+```
+
 ## Conventions de nommage
 
 | Type     | Naming convention  |
