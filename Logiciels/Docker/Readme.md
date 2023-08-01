@@ -66,7 +66,7 @@ docker volume rm $(docker volume ls -q)
 > **Warning**
 > This is a warning
 
-> [!NOTE]  
+> [!WARNING] test  
 > Highlights information that users should take into account, even when skimming.
 
 > [!IMPORTANT]  
