@@ -15,17 +15,19 @@
 [Source](https://github.com/orgs/community/discussions/16925) et [précisions](https://github.com/orgs/community/discussions/16925#discussioncomment-2827410)
 
 ```md
-> **Note**
+> **Note**  
+> This is a note
+```
+
+> **Note**  
 > This is a note
 
-> **Warning**
+```md
+> **Warning**  
 > This is a warning
 ```
 
-> **Note**
-> This is a note
-
-> **Warning**
+> **Warning**  
 > This is a warning
 
 ## Markdown cursed
@@ -74,4 +76,3 @@
   ```
 
 </details>
-
