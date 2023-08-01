@@ -61,32 +61,37 @@ docker volume rm $(docker volume ls -q)
 
 ---
 
-## Commandes `docker-compose`
+## Commandes `docker compose`
 
-### Supprimer un stack docker-compose
+> **Attention**  
+> `docker-compose` et `docker compose` sont deux commandes différentes et peuvent donc avoir des comportements différents.
+
+En effet, `docker compose` est la version la plus récente de `docker-compose` et est donc à privilégier.
+
+### Supprimer un stack docker compose
 
 Dans le dossier où se trouve le fichier `docker-compose.yml`, exécutez la commande suivante :
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
-### Stopper et relancer un seul conteneur d'un stack docker-compose
+### Stopper et relancer un seul conteneur d'un stack docker compose
 
 #### Relancer le conteneur
 
 ```bash
-docker-compose restart <container_name>
+docker compose restart <container_name>
 ```
 
 #### Stopper le conteneur
 
 ```bash
-docker-compose stop <container_name>
+docker compose stop <container_name>
 ```
 
 #### Lancer le conteneur
 
 ```bash
-docker-compose up -d <container_name>
+docker compose up -d <container_name>
 ```
