@@ -1,0 +1,136 @@
+{
+  "main": {
+    "id": "9e8842cfee8ec21f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba260b64c475c3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "109d4121d1a6119d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "34b7d1ed9d85a916",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "0110768fe9d0c07f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d754ff95c47b8b53",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "90eef884b9442cf8",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "799de054e5f691e7",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "dc1f60444b784501",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9658967ab26082bc",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "linux/termux/Readme.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "cc5f0259a2761042",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "linux/termux/Readme.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "50031df3620d7c35",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "linux/termux/Readme.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0110768fe9d0c07f",
+  "lastOpenFiles": [
+    "Android/Applications/Readme.md"
+  ]
+}
