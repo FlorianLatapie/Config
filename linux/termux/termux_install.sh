@@ -57,4 +57,8 @@ gem install lolcat
 
 # GitHub CLI
 echo -e "\nInstalling gh\n"
-apt install gh
+apt install gh -y 
+
+# Termux tools for termux-setup-storage
+echo -e "\nInstalling termux-tools\n"
+pkg install termux-tools -y 
