@@ -48,12 +48,20 @@ pkg install tur-repo
 apt install code-server -y
 
 mkdir -p ~/.config/code-server/
-echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: ChangeMe123\ncert: false" > ~/.config/code-server/config.yaml
+
+generate_random_password() {
+    LC_ALL=C tr -dc 'A-Za-z0-9!$&*()_=-' < /dev/urandom | head -c 10
+}
+
+# Generate a random password
+random_password=$(generate_random_password)
+
+# Update the config.yaml file
+echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: $random_password\ncert: false" > ~/.config/code-server/config.yaml
 
 # lolcat color the cat command
 echo -e "\nInstalling lolcat\n"
 gem install lolcat
-
 
 # GitHub CLI
 echo -e "\nInstalling gh\n"
@@ -62,3 +70,7 @@ apt install gh -y
 # Termux tools for termux-setup-storage
 echo -e "\nInstalling termux-tools\n"
 pkg install termux-tools -y 
+
+# Man 
+echo -e "\nInstalling man\n"
+pkg install man -y 

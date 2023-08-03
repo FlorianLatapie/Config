@@ -1,0 +1,42 @@
+#!/bin/bash
+
+HOME="/data/data/com.termux/files/home"
+
+REPO_DIRECTORY="$HOME/storage/downloads/termux"
+
+source $HOME/.shortcuts/consts.sh
+
+echo -e "${GREEN}\n$SEPARATOR\nAuto push script for the directory:\n${NC}$REPO_DIRECTORY\n${GREEN}$SEPARATOR${NC}"
+
+function nb_line_git_diff() {
+  git diff | wc -l
+}
+
+function auto_commit() {
+  git add .
+  git commit -m "auto commit from Termux"
+  git push
+}
+
+for repo in $(find "$REPO_DIRECTORY" -maxdepth 1 -type d); do
+  if [ -d "$repo/.git" ]; then
+    echo "Checking and pulling repository:\n$repo"
+    cd "$repo"
+
+    echo -e "${YELLOW}git pull:${NC}"
+    git pull
+
+  if [ $(nb_line_git_diff) -ne 0 ]; then
+      echo -e "${YELLOW}Committing changes${NC}"
+      auto_commit
+      echo -e "${YELLOW}Files pushed${NC}"
+    else
+      echo -e "${YELLOW}No changes${NC}"
+    fi
+
+    echo -e "${YELLOW}$SEPARATOR${NC}"
+  fi
+done
+
+echo -e "${GREEN}End of script : Press any key to exit ...${NC}"
+read -n 1 -s -r -p ""
