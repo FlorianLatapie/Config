@@ -10,7 +10,7 @@
 
 Sur votre iPhone ou iPad,
 
-1. Télécharger [ChatGPT](https://apps.apple.com/app/id6448311069)
+1. Télécharger et se connecter dans l'appli [ChatGPT](https://apps.apple.com/app/id6448311069)
 2. Ajoutez le raccourci ["parlons ensemble"](https://www.icloud.com/shortcuts/b7f39b6e1492426aa2a4f57bb47d6cae)
 3. Cliquez sur `+ Ajouter ce raccourci`
 
