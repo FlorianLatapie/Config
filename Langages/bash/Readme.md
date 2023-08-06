@@ -1,5 +1,18 @@
 # bash cheatsheet
 
+- [bash cheatsheet](#bash-cheatsheet)
+  - [Début de fichier](#début-de-fichier)
+  - [Arguments de la ligne de commande](#arguments-de-la-ligne-de-commande)
+  - [Boucles for](#boucles-for)
+    - [foreach](#foreach)
+    - [for i](#for-i)
+  - [Boucles while](#boucles-while)
+  - [Conditions](#conditions)
+  - [Fonctions](#fonctions)
+    - [Fonctions avec arguments](#fonctions-avec-arguments)
+  - [Listes](#listes)
+
+
 ## Début de fichier
 
 ```sh
@@ -172,3 +185,25 @@ Sortie :
 ```txt
 Fonction avec 3 arguments
 ```
+
+## Listes
+
+```sh
+ma_liste = ( "a" "b" "c d" )
+
+for thing in "${ma_liste[@]}" ; do
+  echo "$thing"
+done
+```
+
+Sortie :
+
+```txt
+a
+b
+c d
+```
+
+Certains shells comme [ash](https://fr.wikipedia.org/wiki/Almquist_shell) ne supportent pas les listes, on peut donc utiliser une string, le for sépare les éléments par des espaces.
+
+Cf. [Linux/Alpine/Readme.md#ash et listes](../../linux/alpine/Readme.md#ash-et-listes)
