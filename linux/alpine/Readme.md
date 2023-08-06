@@ -39,3 +39,7 @@ for thing in $list ; do # Note: ne pas mettre de guillemets autour de $services 
   echo "$thing"
 done
 ```
+
+### Tuto serveur SSh
+
+[GitHub/ish-app/ish -> Wiki/Running an SSH server](https://github.com/ish-app/ish/wiki/Running-an-SSH-server)
