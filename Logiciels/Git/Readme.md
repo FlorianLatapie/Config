@@ -5,7 +5,7 @@
   - [Supprimer le dernier commit (de force)](#supprimer-le-dernier-commit-de-force)
   - [Se connecter à git](#se-connecter-à-git)
   - [Changer l'emplacement de la "HEAD"](#changer-lemplacement-de-la-head)
-  - [Importer un dépôt (pour faire un fork privé par exemple)](#importer-un-dépôt-pour-faire-un-fork-privé-par-exemple)
+  - [Importer un dépôt](#importer-un-dépôt)
   - [Mettre à jour le `.gitignore` et supprimer les anciens fichiers](#mettre-à-jour-le-gitignore-et-supprimer-les-anciens-fichiers)
   - [Changer le nom d'un ancien commit](#changer-le-nom-dun-ancien-commit)
   - [Comment utiliser les submodules Git](#comment-utiliser-les-submodules-git)
@@ -48,7 +48,9 @@ git log
 git checkout <sha1 du commit>
 ```
 
-## Importer un dépôt (pour faire un fork privé par exemple)
+## Importer un dépôt
+
+Par exemple pour faire un fork public d'un dépot privé
 
 Source : [GitHub: How to make a fork of public repository private?](https://stackoverflow.com/q/10065526)
 
