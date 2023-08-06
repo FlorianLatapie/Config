@@ -24,11 +24,9 @@ apt update
 apt upgrade -y
 ```
 
-
 ```sh
 apt install git -y
 ```
-
 
 ```sh
 git clone https://github.com/FlorianLatapie/Config.git
