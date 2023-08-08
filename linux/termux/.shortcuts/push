@@ -27,7 +27,7 @@ for repo in $(find "$REPO_DIRECTORY" -maxdepth 1 -type d); do
     git pull
 
   if [ $(nb_line_git_diff) -ne 0 ]; then
-      echo -e "${YELLOW}Committing changes${NC}"
+      echo -e "${GREEN}Committing changes${NC}"
       auto_commit
       echo -e "${YELLOW}Files pushed${NC}"
     else
