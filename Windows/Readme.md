@@ -6,7 +6,7 @@
 
 ## [Troubleshooting](Troubleshooting/Readme.md)
 
-## [PCs](PCs/Readme.md)
+## [PCs](PCs)
 
 ## [Logiciels installés](Logiciels/Readme.md)
 
