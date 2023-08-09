@@ -14,3 +14,7 @@ Lancer Visual Studio Code en ouvrant le dossier courant : `code .`
 | Dupliquer une ligne                  | `Shift + Alt + Haut/Bas` | `Shift + Alt + Haut/Bas` | N/D                         |
 | Aller au fichier                     | `Ctrl + P`               | `Ctrl + P`               | Go to File...               |
 | Ouvrir la palette de commandes       | `Ctrl + Shift + P`       | `Ctrl + Shift + P`       | Show All Commands           |
+
+## Extensions Visual Studio Code
+
+[Visual Studio Code](./VSCodeExtensions.md)
