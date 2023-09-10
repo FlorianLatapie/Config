@@ -28,7 +28,7 @@ if __name__ == "__main__":
     import sys
 
     if len(sys.argv) < 2:
-        print("Usage: python crop.py <input_path>")
+        print("Usage: python crop.py <input_path(s)>")
         sys.exit(1)
 
     for file_path in sys.argv[1:]:
