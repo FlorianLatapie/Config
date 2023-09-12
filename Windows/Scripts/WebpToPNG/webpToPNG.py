@@ -1,4 +1,5 @@
 from PIL import Image
+from pillow_heif import register_heif_opener
 import os
 
 def convert(filepath):
@@ -14,4 +15,5 @@ if __name__ == "__main__":
         sys.exit(1)
 
     for file_path in sys.argv[1:]:
+        register_heif_opener()
         convert(file_path)
