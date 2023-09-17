@@ -63,3 +63,22 @@ pipreqs /chemin/vers/le/projet --force
 ```bash
 pip install -r requirements.txt
 ```
+
+## Créer un venv (Virtual Environment)
+
+But : utiliser une version différente de python que celui installé sur la machine
+
+### Installation 
+
+```bash
+pip install virtualenv
+```
+
+### Création et utilisation du venv
+
+```bash
+virtualenv -p /usr/bin/python2.7 venv-name
+source venv-name/bin/activate
+```
+
+Vous devriez voir à présent (venv-name) dans votre terminal, vous pouvez utiliser python comme d'habitude (`python monfichier.py`)
