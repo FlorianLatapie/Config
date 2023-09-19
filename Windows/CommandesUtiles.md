@@ -2,7 +2,7 @@
 
 ## Lancer WSL en admin sans mot de passe
 
-```console
+```bash
 wsl -u root 
 ```
 
@@ -10,19 +10,19 @@ wsl -u root
 
 ### Activer Hyper-V
 
-```console
+```bash
 bcdedit /set hypervisorlaunchtype auto 
 ```
 
 ### Désactiver Hyper-V
 
-```console
+```bash
 bcdedit /set hypervisorlaunchtype off
 ```
 
 ## Lancer le Windows Terminal avec un profil
 
-```console
+```bash
 wt <nom_du_profil>
 ```
 
@@ -32,13 +32,13 @@ Source : [cmd | Microsoft Docs](https://docs.microsoft.com/fr-fr/windows-server/
 
 ### Lancer et quitter
 
-```console
+```bash
 cmd /c commande
 ```
 
 ### Lancer et attendre
 
-```console
+```bash
 cmd /k commande
 ```
 
@@ -47,6 +47,14 @@ cmd /k commande
 Lancez "Exécuter" : `Win` + `R`
 Puis entrez :
 
-```console
+```bash
 shell:AppsFolder
+```
+
+## Afficher le `PATH`
+
+Dans le Powershell
+
+```bash
+echo $env:PATH
 ```
