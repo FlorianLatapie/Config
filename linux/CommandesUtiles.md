@@ -17,3 +17,9 @@ rename "s/.java.txt$/.java/" *.txt
 ```sh
 sudo passwd <nom_utilisateur>
 ```
+
+## Chercher un fichier dans un dossier
+
+```sh
+find <dossier> -name <nom_du_fichier> 2>/dev/null
+```
