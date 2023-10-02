@@ -37,4 +37,3 @@ Configurations spécifiques à chaque PC [ici](PCs/Readme.md)
 ## Autre
 
 - [Autres configurations](autre/Readme.md)
-- [Commandes utiles](CommandesUtiles.md)
