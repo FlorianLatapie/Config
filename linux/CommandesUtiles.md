@@ -23,3 +23,9 @@ sudo passwd <nom_utilisateur>
 ```sh
 find <dossier> -name <nom_du_fichier> 2>/dev/null
 ```
+
+## Créer un dossier et entrer dedans
+
+```sh
+mkdir my_directory && cd $_
+```
