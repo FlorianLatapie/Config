@@ -58,3 +58,9 @@ Dans le Powershell
 ```bash
 echo $env:PATH
 ```
+
+Dans le CMD
+
+```bash
+echo %PATH%
+```
