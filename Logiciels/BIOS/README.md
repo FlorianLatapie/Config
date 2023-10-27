@@ -7,7 +7,7 @@
 | Dell      | `F2`               |   `F12`   |
 | Microsoft | `Volume haut` + On |  N/A      |
 
-## Windows 
+## Windows
 
 - Menu démarrer
 - Menu alimentation
