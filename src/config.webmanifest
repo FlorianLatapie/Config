@@ -2,7 +2,7 @@
     "name": "FlorianLatapie - Config",
     "short_name": "Config",
     "start_url": "../",
-    "display": "standalone",
+    "display": "minimal-ui",
     "background_color": "#000",
     "theme_color": "#000",
     "icons": [
