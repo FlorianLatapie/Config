@@ -1,5 +1,7 @@
 # Config
 
+Vous pouvez la PWA du site sur votre appareil : [florianlatapie.github.io/config/PWA](https://florianlatapie.github.io/config/PWA) !
+
 ## [Linux](linux/Readme.md) <!-- volontairement en minuscule pour que ce soit plus simple à naviguer en CLI-->
 
 ## [Windows](Windows/Readme.md)
