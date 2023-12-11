@@ -1,0 +1,15 @@
+{
+    "name": "FlorianLatapie - Config",
+    "short_name": "Config",
+    "start_url": "./README.md",
+    "display": "standalone",
+    "background_color": "#000",
+    "theme_color": "#000",
+    "icons": [
+        {
+            "src": "./app.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
