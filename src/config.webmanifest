@@ -1,7 +1,7 @@
 {
     "name": "FlorianLatapie - Config",
     "short_name": "Config",
-    "start_url": "./README.md",
+    "start_url": "../README.md",
     "display": "standalone",
     "background_color": "#000",
     "theme_color": "#000",
