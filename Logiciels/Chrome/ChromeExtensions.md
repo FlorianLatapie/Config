@@ -10,7 +10,8 @@
 - [Chromebook Recovery Utility](https://chrome.google.com/webstore/detail/chromebook-recovery-utili/pocpnlppkickgojjlmhdmidojbmbodfm) :
   Utilitaire pour générer un fichier de récupération de Chromebook et créer une clé USB bootable ChromeOS.
 - [Chrome Regex Search](https://chrome.google.com/webstore/detail/chrome-regex-search/bpelaihoicobbkgmhcbikncnpacdbknn)
-- [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : **refuse** tous les cookies optionnels
+- [Consent-O-Matic](https://chrome.google.com/webstore/detail/consent-o-matic/mdjildafknihdffpkfmmpnpoiajfjnjd) : **Refuse** tous les cookies optionnels
+- [Disconnect](https://chromewebstore.google.com/detail/disconnect/jeoacafpbcihiomhlakheieifhpjdfeo) : Supprime les trackers externes.
 - [DNS over Wikipedia](https://chrome.google.com/webstore/detail/dns-over-wikipedia/mjmjpfncapfopnommmngnmjalkopljji) : Trouver les domaines `.idk/` en utilisant l'URL fournie par la page Wikipédia pour un sujet donné (utile pour Sci-Hub)
 - [Docsumo Free OCR Software](https://chrome.google.com/webstore/detail/docsumo-free-ocr-software/ihmmlfacoffajllfpdfkdikgmoogbnph) :
   OCR sur la page web.
