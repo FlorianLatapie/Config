@@ -12,7 +12,17 @@ Quand un conteneur est démaré pour la première fois, il exécute les fichiers
 curl -fsSL https://get.docker.com | sh
 ```
 
-N'oubliez pas de démarrer le service docker (`systemctl start docker`)
+N'oubliez pas de démarrer le service docker 
+
+```bash
+systemctl start docker
+```
+
+Pour tester si tout fonctionne lancez la commande suivante :
+
+```bash
+docker run hello-world
+```
 
 ## commandes `docker`
 
