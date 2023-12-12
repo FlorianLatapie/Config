@@ -12,7 +12,7 @@ Quand un conteneur est démaré pour la première fois, il exécute les fichiers
 curl -fsSL https://get.docker.com | sh
 ```
 
-N'oubliez pas de démarrer le service docker 
+N'oubliez pas de démarrer le service docker
 
 ```bash
 systemctl start docker
@@ -105,3 +105,7 @@ docker compose stop <container_name>
 ```bash
 docker compose up -d <container_name>
 ```
+
+### Config `docker-compose` communes
+
+#### [LAMP pour développement local](./ComposeExamples/LAMP/Readme.md)
