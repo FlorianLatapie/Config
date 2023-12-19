@@ -18,18 +18,25 @@ h1 {
 button {
     text-align: center;
     font-size: 16px;     
-    display: block;   
-    margin: 0 auto;    
 }
 
 .apple-style-button {
     display: inline-block;
-    padding: 4px 16px;
-    margin-bottom: 2px;
+    padding: 5px 16px;
     text-align: center;
     text-decoration: none;
     border-radius: 100vh;
     background-color: #e9e9eb;
     color: #2374f5;
     border: none;
+}
+
+.apple-style-button:hover {
+    background-color: #dcdce0;
+}
+
+.button_container {
+    display: flex;
+    flex-direction: column; 
+    row-gap: 16px;
 }

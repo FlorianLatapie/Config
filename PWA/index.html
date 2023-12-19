@@ -7,35 +7,16 @@
     <link rel="manifest" href="./config.webmanifest">
     <link rel="icon" href="./app_icon.png">
     <link rel="stylesheet" href="./style.css">
-    <script>
-        if ('serviceWorker' in navigator) {
-            navigator.serviceWorker.register('./sw.js')
-            .then(function(registration) {
-                console.log('Service worker registration succeeded:', registration);
-            }).catch(function(error) {
-                console.log('Service worker registration failed:', error);
-            });
-        } else {
-            console.log('Service workers are not supported.');
-        }
-    </script>
+    <script src="./script.js" defer></script>
 </head>
 <body>
     <h1>Bienvenue dans l'installeur de FlorianLatapie/Config</h1>
-    <button onclick="window.location.href='../'" class="apple-style-button">Retour à la page d'accueil</button>
-    
-    <button onclick="window.location.href='https://github.com/florianlatapie/config'" class="apple-style-button">Repo GitHub FlorianLatapie/Config</button>
-    
-    <p id="install_hint">Vous pouvez installer config en cliquant sur <strong>"Ajouter à l'écran d'accueil"</strong> ou <strong>"Installer"</strong> dans le menu de votre navigateur.</p>
+    <div class="button_container">
+        <button id="goHomeBtn" class="apple-style-button">Retour à la page d'accueil</button>
 
-    <script>
-        if (window.matchMedia('(display-mode: standalone)').matches) {
-            document.getElementById("install_hint").innerHTML = "";
-            const response = confirm("Vous avez déjà installé Config !\nVous allez être redirigé vers la page d'accueil.");
-            if (response == true){
-                window.location.href = "../";
-            }
-        }
-    </script>
+        <button class="apple-style-button" id="installBtn">Installer</button>
+    
+        <button id="goRepoBtn" class="apple-style-button">Repo GitHub FlorianLatapie/Config</button>
+    </div>
 </body>
 </html>
