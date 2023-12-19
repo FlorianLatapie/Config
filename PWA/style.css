@@ -1,14 +1,21 @@
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
 * {
     font-family: 'SF Pro Text', 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
-body {
+main {
+    margin: 0 2vw;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 80vh;
+    height: 70vh;
+}
+
+main > * {
+    margin: 16px 0;
 }
 
 h1 {
@@ -39,4 +46,47 @@ button {
     display: flex;
     flex-direction: column; 
     row-gap: 16px;
+}
+
+
+* {
+    animation: fadeIn ease 400ms;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity:0;
+    }
+    100% {
+        opacity:1;
+    }
+}
+    
+#iosText {
+    display: none;
+    position: absolute;
+    bottom: 50px;
+}
+
+.flexRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 6px;
+}
+
+header {
+    margin: 3vh;
+    height: 5vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    column-gap: 6px;
+}
+
+img {
+    height: 100%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 17%
 }
