@@ -81,7 +81,7 @@ header {
     display: flex;
     flex-direction: row;
     align-items: center;
-    column-gap: 6px;
+    column-gap: 1.5vh;
 }
 
 img {
