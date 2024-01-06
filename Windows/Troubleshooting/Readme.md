@@ -15,3 +15,15 @@ chkdsk c: /f /r
 `Win` + `Ctrl` + `Shift` + `B`
 
 (un bip retentit pour informer que l'opération a bien été effectuée)
+
+## L'écran tactile touche le mauvais écran
+
+Source : [SOLVED: Touchscreen Touches Go To The Wrong Monitor](https://www.urtech.ca/2014/04/solved-touchscreen-touches-go-to-the-wrong-monitor/)
+
+- Panneau de configuration
+- Matériel et audio
+- Paramètres du Tablet PC, catégorie `Options d'affichage`
+  - Choisissez votre écran tactile avec `Affichage :`
+  - Cliquez sur `Configurer...` dans l'encart `Configurer`
+  - Suivez les instructions  
+  (si l'écran est le bon touchez le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)
