@@ -1,14 +1,21 @@
 [
     {
-       "source":"lters",
-       "replace":"filters",
+       "source":"//",
+       "replace":"'",
        "ignoreWordBoundary":false,
        "matchCase":false,
        "isEditing":false
     },
     {
-       "source":"rst",
-       "replace":"first",
+       "source":"DOM",
+       "replace":"DOME",
+       "ignoreWordBoundary":false,
+       "matchCase":false,
+       "isEditing":false
+    },
+    {
+       "source":"div",
+       "replace":"divh",
        "ignoreWordBoundary":false,
        "matchCase":false,
        "isEditing":false
