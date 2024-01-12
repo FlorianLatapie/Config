@@ -67,6 +67,7 @@ pip install -r requirements.txt
 ## Créer un venv (Virtual Environment)
 
 Source : [venv — Creation of virtual environments — Python 3 documentation](https://docs.python.org/3/library/venv.html)
+
 But : utiliser une version différente de python que celui installé sur la machine
 
 ### Installation 
