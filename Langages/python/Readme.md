@@ -84,3 +84,11 @@ source venv-name/bin/activate
 ```
 
 Vous devriez voir à présent (venv-name) dans votre terminal, vous pouvez utiliser python comme d'habitude (`python monfichier.py`)
+
+## Installer `python2` et `pip2`
+
+```bash
+apt install python2 wget 
+wget https://bootstrap.pypa.io/pip/2.7/get-pip.py 
+python2 get-pip.py
+```
