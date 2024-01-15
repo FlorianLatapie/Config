@@ -79,6 +79,7 @@ pip install virtualenv
 ### Création et utilisation du venv
 
 ```bash
+pip install virtualenv
 virtualenv -p /usr/bin/python2.7 venv-name
 source venv-name/bin/activate
 ```
