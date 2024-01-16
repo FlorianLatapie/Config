@@ -8,6 +8,7 @@
   - [Importer un dépôt](#importer-un-dépôt)
   - [Mettre à jour le `.gitignore` et supprimer les anciens fichiers](#mettre-à-jour-le-gitignore-et-supprimer-les-anciens-fichiers)
   - [Changer le nom d'un ancien commit](#changer-le-nom-dun-ancien-commit)
+  - [Cloner un très gros dépôt](#cloner-un-très-gros-dépôt)
   - [Comment utiliser les submodules Git](#comment-utiliser-les-submodules-git)
     - [Ajouter un submodule à un dépôt](#ajouter-un-submodule-à-un-dépôt)
     - [Cloner un dépôt avec des submodules](#cloner-un-dépôt-avec-des-submodules)
@@ -108,6 +109,28 @@ Enfin, il faut forcer le commit :
 
 ```sh
 git push --force
+```
+
+## Cloner un très gros dépôt
+
+[Source](https://stackoverflow.com/questions/38618885/error-rpc-failed-curl-transfer-closed-with-outstanding-read-data-remaining)
+
+Erreur que j'ai eu :
+
+```txt
+error: RPC failed; curl ...
+error: ... bytes of body are still expected
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+```
+
+Solution :
+
+```sh
+git clone http://github.com/large-repository --depth 1
+cd large-repository
+git fetch --unshallow
 ```
 
 ## Comment utiliser les submodules Git
