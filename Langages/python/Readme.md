@@ -80,7 +80,7 @@ pip install virtualenv
 
 ```bash
 pip install virtualenv
-virtualenv -p /usr/bin/python2.7 venv-name
+python3 -m virtualenv -p /usr/bin/python2.7 venv-name
 source venv-name/bin/activate
 ```
 
