@@ -1,121 +1,121 @@
 [
-    {
-       "source":"//",
-       "replace":"'",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"<",
-       "replace":"less than",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":">",
-       "replace":"greater than",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"DOM",
-       "replace":"DOME",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"div",
-       "replace":"divh",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"le",
-       "replace":"file",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"lter",
-       "replace":"filter",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"ltering",
-       "replace":"filtering",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"lters",
-       "replace":"filters",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"nal",
-       "replace":"final",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"nd",
-       "replace":"find",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"ndings",
-       "replace":"findings",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"ow",
-       "replace":"flow",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"ows",
-       "replace":"flows",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"rst",
-       "replace":"first",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"x",
-       "replace":"fix",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    },
-    {
-       "source":"xing",
-       "replace":"fixing",
-       "ignoreWordBoundary":false,
-       "matchCase":false,
-       "isEditing":false
-    }
- ]
+   {
+      "source": "//",
+      "replace": "'",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "<",
+      "replace": "less than",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": ">",
+      "replace": "greater than",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "DOM",
+      "replace": "DOME",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "div",
+      "replace": "divh",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "le",
+      "replace": "file",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "lter",
+      "replace": "filter",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "ltering",
+      "replace": "filtering",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "lters",
+      "replace": "filters",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "nal",
+      "replace": "final",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "nd",
+      "replace": "find",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "ndings",
+      "replace": "findings",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "ow",
+      "replace": "flow",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "ows",
+      "replace": "flows",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "rst",
+      "replace": "first",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "x",
+      "replace": "fix",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "xing",
+      "replace": "fixing",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   }
+]
