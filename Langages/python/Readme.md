@@ -93,3 +93,9 @@ apt install python2 wget
 wget https://bootstrap.pypa.io/pip/2.7/get-pip.py 
 python2 get-pip.py
 ```
+
+## Convenions Python 
+
+### Ajouter auteur, license ... 
+
+[web.archive.org/web/20111010053227/jaynes.colorado.edu/PythonGuidelines.html#module_formatting](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting)
