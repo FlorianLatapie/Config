@@ -33,7 +33,7 @@ L'Assistance rapide est un logiciel permettant à un Assistant de se connecter �
 6. Une fois accepté, une barre en haut affiche que le `Partage d'écran est activé`.  
     ![w11_accepté_1](./w11_accepte_1.png)
 
-7. L'Assistant va ensuite demander le controle il faut l'accepter depuis la barre.  
+7. L'Assistant va ensuite demander le contrôle, il faut l'accepter depuis la barre.  
     ![w11_accepté_2 - Copie (2)](./w11_accepte_2_2.png)
     ![w11_accepté_3 - Copie](./w11_accepte_3_2.png)
 

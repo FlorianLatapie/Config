@@ -26,4 +26,4 @@ sudo apt install gh -y
 
 ## Autres fichiers
 
-- [wsl_run.sh](wsl_run.sh) : Ajoute un appel a `update` au lancement de chaque bash
+- [wsl_run.sh](wsl_run.sh) : Ajoute un appel à `update` au lancement de chaque bash

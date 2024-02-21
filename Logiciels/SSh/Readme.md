@@ -37,10 +37,10 @@ ssh-copy-id -i ~/.ssh/id_rsa.pub user@host
     ```
 
 - Autorisez les connexions entrantes sur le port 22 dans le pare-feu
-  - Ouvez `Server Manager`
+  - Ouvrez `Server Manager`
   - Dans le menu `Tools` sélectionnez `Windows Defender Firewall with Advanced Security`
   - Cliquez sur `Inbound Rules`
-  - Dans le panneau à droite cliquez sur `New Rule...`
+  - Dans le panneau à droite, cliquez sur `New Rule...`
     - Rule Type: `Port`
     - Port and Protocols:
       - Does this rule apply to TCP or UDP? `TCP`

@@ -4,7 +4,7 @@
 
 Source : [mongo - Official Image | Docker Hub](https://hub.docker.com/_/mongo)
 
-Quand un conteneur est démaré pour la première fois, il exécute les fichiers avec les extensions `*.sh` et `*.js` qui sont trouvés dans `/docker-entrypoint-initdb.d/`.
+Quand un conteneur est démarré pour la première fois, il exécute les fichiers avec les extensions `*.sh` et `*.js` qui sont trouvés dans `/docker-entrypoint-initdb.d/`.
 
 ## Installer docker sur linux
 

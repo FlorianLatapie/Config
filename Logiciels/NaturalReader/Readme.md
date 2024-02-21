@@ -2,7 +2,8 @@
 
 ## Prononciations
 
-[exportPronunciations.json](exportPronunciations.json)
+[exportPronunciations_FR.json](exportPronunciations_FR.json)
+[exportPronunciations_EN.json](exportPronunciations_EN.json)
 
 ## Trier le JSON
 

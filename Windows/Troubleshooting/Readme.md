@@ -26,4 +26,4 @@ Source : [SOLVED: Touchscreen Touches Go To The Wrong Monitor](https://www.urtec
   - Choisissez votre écran tactile avec `Affichage :`
   - Cliquez sur `Configurer...` dans l'encart `Configurer`
   - Suivez les instructions  
-  (si l'écran est le bon touchez le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)
+  (si l'écran est le bon, touchez-le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)

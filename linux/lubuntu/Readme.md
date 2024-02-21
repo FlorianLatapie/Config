@@ -6,7 +6,7 @@
 
 ![Keyboard Layout](https://discourse-data.lubuntu.s3.thomas-ward-consulting.llc/original/1X/1e92db1f1c6b3fdd1503669197d560428c620a95.png)
 
-- Clic droit sur sur la barre des taches en bas
+- Clic droit sur la barre des taches en bas
 - Cliquez sur `Add/Remove Panel Items`
   - Cliquez sur `Add`
   - Cliquez sur `Keyboard Layout Handler` puis sur `Add`

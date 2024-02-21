@@ -2,7 +2,7 @@
 
 ## Manuel utilisateur
 
-[BSP-D3 Mobile phone streching controller - user manual](./BSP-D3%20Mobile%20phone%20streching%20controller%20-%20user%20manual.pdf)
+[BSP-D3 Mobile phone stretching controller - user manual](./BSP-D3%20Mobile%20phone%20streching%20controller%20-%20user%20manual.pdf)
 
 ## Modes d'appairage
 

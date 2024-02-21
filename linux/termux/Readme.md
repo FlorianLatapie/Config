@@ -1,6 +1,6 @@
 # Android (Termux)
 
-Dans ce dossier est contenu les fichiers de configuration pour l'installation de Termux sur Android.
+Dans ce dossier sont contenu les fichiers de configuration pour l'installation de Termux sur Android.
 
 ## Lancer
 

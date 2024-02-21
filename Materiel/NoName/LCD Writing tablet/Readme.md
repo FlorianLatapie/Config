@@ -1,14 +1,14 @@
-# 12 inch LCD Writing tablet with partial erease function
+# 12 inch LCD Writing tablet with partial erase function
 
 ## Manuel utilisateur
 
-[12 inch LCD Writing tablet with partial erease function - user manual](./12%20inch%20LCD%20Writing%20tablet%20with%20partial%20erease%20function%20-%20user%20manual.pdf)
+[12 inch LCD Writing tablet with partial erase function - user manual](./12%20inch%20LCD%20Writing%20tablet%20with%20partial%20erease%20function%20-%20user%20manual.pdf)
 
 ## Comment utiliser la fonction d'effacement partiel ?
 
 - Appuyez sur le bouton d'effacement partiel une fois :  
   vous pouvez voir la LED verte clignoter une fois toutes les 2 secondes, pendant 30 secondes,
-- Vous pouvez utiliser le coté gomme du stylo pour effacer le contenu (force d'effacement : 600g)  
+- Vous pouvez utiliser le côté gomme du stylo pour effacer le contenu (force d'effacement : 600g)  
   Le meilleur angle pour effacer est de 45°
 
 ### Ajuster la fonction d'effacement partiel

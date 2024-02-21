@@ -19,7 +19,7 @@
 #!/usr/bin/env bash
 ```
 
-Explication (par Tom "zdimension" Niget ): Sur Unix/Linux, quand lance un fichier, l'OS va lire le début du fichier pour
+Explication (par Tom "zdimension" Niget): Sur Unix/Linux, quand lance un fichier, l'OS va lire le début du fichier pour
 détecter une signature en entête.
 
 - Si c'est un fichier binaire, l'OS va le lancer directement.

@@ -1,6 +1,6 @@
 # Ubuntu
 
-Dans ce dossier est contenu les fichiers de configuration pour l'installation d'Ubuntu, spécifiquement la version Ubuntu
+Dans ce dossier sont contenu les fichiers de configuration pour l'installation d'Ubuntu, spécifiquement la version Ubuntu
 22.04 LTS
 
 Commandes amusantes installées

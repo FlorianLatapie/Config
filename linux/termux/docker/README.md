@@ -87,7 +87,7 @@ Login avec l'utilisateur `root`, aucun mot de passe
 setup-interfaces
 ```
 
-puis appuyer sur `entrée` pour chaque question pour utiliser les valeurs par défaut
+Puis appuyer sur `entrée` pour chaque question pour utiliser les valeurs par défaut
 
 ```bash
 ifup eth0
@@ -126,7 +126,7 @@ DISKOPTS="-v -m sys -s 0 /dev/sda"
 
 #### Correction de `setup-disk`
 
-pour activer la sortie de la console série au démarrage
+Pour activer la sortie de la console série au démarrage
 
 ```bash
 sed -i -E 's/(local kernel_opts)=.*/\1="console=ttyS0"/' /sbin/setup-disk
@@ -163,7 +163,7 @@ qemu-system-x86_64 -machine q35 -m 6144 -smp cpus=6 -cpu qemu64 \
 
 #### Depuis la VM (2)
 
-une fois connecté en tant que `root` avec le mot de passe défini lors de l'installation
+Une fois connecté en tant que `root` avec le mot de passe défini lors de l'installation
 
 (Je ne sais pas pourquoi, mais il faut le faire à chaque fois)
 
@@ -181,7 +181,7 @@ rc-update add docker
 
 ## Utilisation
 
-- Lancer la VM (depuis le dossier alpine)
+- Lancer la VM (depuis le dossier Alpine)
 
 ```bash
 qemu-system-x86_64 -machine q35 -m 1024 -smp cpus=2 -cpu qemu64 \

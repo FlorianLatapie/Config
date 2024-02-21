@@ -15,7 +15,7 @@ Lancer Visual Studio Code en ouvrant le dossier courant : `code .`
 | Aller au fichier                     | `Ctrl + P`               | `Ctrl + P`               | Go to File...               |
 | Ouvrir la palette de commandes       | `Ctrl + Shift + P`       | `Ctrl + Shift + P`       | Show All Commands           |
 | Commenter la ligne sélectionnée      | `Ctrl + K`, `Ctrl + C`   | JSP                      | Add Line Comment            |
-| Décommenter la ligne sélectionnée    | `Ctrl + K`, `Ctrl + U`   | JSP                      | Add Line Comment            |
+| Dé-commenter la ligne sélectionnée   | `Ctrl + K`, `Ctrl + U`   | JSP                      | Add Line Comment            |
 
 ## Extensions Visual Studio Code
 

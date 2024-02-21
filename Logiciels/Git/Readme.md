@@ -1,7 +1,7 @@
 # Commandes Git utiles
 
 - [Commandes Git utiles](#commandes-git-utiles)
-  - [Forcer la mise a jour d'un dépôt de origin/main vers sa copie locale](#forcer-la-mise-a-jour-dun-dépôt-de-originmain-vers-sa-copie-locale)
+  - [Forcer la mise à jour d'un dépôt de origin/main vers sa copie locale](#forcer-la-mise-a-jour-dun-dépôt-de-originmain-vers-sa-copie-locale)
   - [Supprimer le dernier commit (de force)](#supprimer-le-dernier-commit-de-force)
   - [Se connecter à git](#se-connecter-à-git)
   - [Changer l'emplacement de la "HEAD"](#changer-lemplacement-de-la-head)
@@ -16,7 +16,7 @@
       - [Push](#push)
       - [Pull](#pull)
 
-## Forcer la mise a jour d'un dépôt de origin/main vers sa copie locale
+## Forcer la mise à jour d'un dépôt de origin/main vers sa copie locale
 
 ```sh
 git fetch --all ; git reset --hard origin/main ; git checkout -- .

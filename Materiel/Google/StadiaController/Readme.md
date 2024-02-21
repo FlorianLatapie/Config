@@ -4,7 +4,7 @@
 
 ### Associer un nouvel appareil
 
-Maintenir les bouton `Stadia`  + `Y`  
+Maintenir les boutons `Stadia`  + `Y`  
 jusqu'à ce que le bouton `Stadia` soit orange
 
 ![image](https://github.com/FlorianLatapie/Config/assets/70631622/7c0ea33e-9ffb-4d25-8429-c8b282933c4e)

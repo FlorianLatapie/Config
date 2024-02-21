@@ -1,6 +1,6 @@
 # Alpine linux
 
-Dans ce dossier est contenu les fichiers de configuration pour l'installation d'Alpine Linux, spécifiquement pour iSH
+Dans ce dossier sont contenu les fichiers de configuration pour l'installation d'Alpine Linux, spécifiquement pour iSH
 sur iOS.
 
 ## Lancer
@@ -30,7 +30,7 @@ git clone https://github.com/FlorianLatapie/Config.git
 
 Source : [How to port to bash-style arrays to ash?](https://unix.stackexchange.com/questions/384614/how-to-port-to-bash-style-arrays-to-ash)
 
-`ash`, le shell d'Alpine ne supporte pas les listes, on peut donc utiliser une string, le for sépare les éléments par des espaces
+`ash`, le shell d'Alpine ne supporte pas les listes, on peut donc utiliser une `string`, le for sépare les éléments par des espaces
 
 ```sh
 list="a b c"

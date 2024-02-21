@@ -2,8 +2,8 @@
 
 ## Installation automatique pour Windows
 
-Le script se trouve ici : [mvn_win_install.cmd](https://gist.github.com/FlorianLatapie/3c3125a2a371dc08991313401f04db65)
-, lancez-le en mode administrateur.
+Le script se trouve ici : [mvn_win_install.cmd](https://gist.github.com/FlorianLatapie/3c3125a2a371dc08991313401f04db65), 
+lancez-le en mode administrateur.
 
 <!-- Sources -->
 

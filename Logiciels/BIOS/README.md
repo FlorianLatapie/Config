@@ -2,10 +2,10 @@
 
 ## Tous OS
 
-|           | BIOS               | Boot Menu |
+|           |        BIOS        | Boot Menu |
 |:---------:|:------------------:|:---------:|
-| Dell      | `F2`               |   `F12`   |
-| Microsoft | `Volume haut` + On |  N/A      |
+|   Dell    |        `F2`        |   `F12`   |
+| Microsoft | `Volume haut` + On |    N/A    |
 
 ## Windows
 
