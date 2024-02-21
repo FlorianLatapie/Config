@@ -1,1 +1,331 @@
-[{"source":"commit","replace":"commite","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"develop","replace":"divelope","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"todo","replace":"à faire","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"deploy","replace":"diploï","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"docker","replace":"dockeur","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"pull","replace":"poule","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"git","replace":"guite","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"private","replace":"praillvaite","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"fingerprint","replace":"fine gueurprint","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"hostname","replace":"haustnaime","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"pipelines","replace":"paillepelaillne","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"pipeline","replace":"paillepelaillne","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"circleci","replace":"sirkeule si aïe","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"github","replace":"guite heube","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"CLI","replace":"c l i ","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"nginx","replace":"ainegynèxe","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"debian","replace":"débianne","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"rootfs","replace":"route fayle system","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"gid","replace":"g i d","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"uid","replace":"u i d","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"iptables","replace":"i p taill beule zeu","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"uts","replace":"u t s","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"Cgroups","replace":"si groups","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"namespace","replace":"naime spèysse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"namespaces","replace":"naime spèysse izz","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"user","replace":"youzeure","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"syscall","replace":"cyscaule","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"space","replace":"spèysse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"payload","replace":"paye laude","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"malwares","replace":"malwaires","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"malware","replace":"malwaire","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"exe","replace":"exé","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"bypass","replace":"baillepasse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"User32.dll","replace":"youzeure 32 point D L L","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"Table","replace":"taill beule","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"Import","replace":"importe ","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"Endpoint","replace":"Ende pouinte","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"EDRs","replace":"E D R","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"Address","replace":"adresse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"API","replace":"A P I","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"div","replace":"divh","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"DOM","replace":"DOME","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"//","replace":"'","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"DevSecOps","replace":"Dèvesèqueopsse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"DevOps","replace":"Dèvopsse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"buffer","replace":"bœuffeur","ignoreWordBoundary":false,"matchCase":false,"isEditing":false},{"source":"reuse","replace":"ryouse","ignoreWordBoundary":false,"matchCase":false,"isEditing":false}]
+[
+   {
+      "source": "//",
+      "replace": "'",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "API",
+      "replace": "A P I",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "Address",
+      "replace": "adresse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "CLI",
+      "replace": "c l i ",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "Cgroups",
+      "replace": "si groups",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "DOM",
+      "replace": "DOME",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "DevOps",
+      "replace": "Dèvopsse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "DevSecOps",
+      "replace": "Dèvesèqueopsse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "EDRs",
+      "replace": "E D R",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "Endpoint",
+      "replace": "Ende pouinte",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "Import",
+      "replace": "importe ",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "Table",
+      "replace": "taill beule",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "User32.dll",
+      "replace": "youzeure 32 point D L L",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "buffer",
+      "replace": "bœuffeur",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "bypass",
+      "replace": "baillepasse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "circleci",
+      "replace": "sirkeule si aïe",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "commit",
+      "replace": "commite",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "debian",
+      "replace": "débianne",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "deploy",
+      "replace": "diploï",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "develop",
+      "replace": "divelope",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "div",
+      "replace": "divh",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "docker",
+      "replace": "dockeur",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "exe",
+      "replace": "exé",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "fingerprint",
+      "replace": "fine gueurprint",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "gid",
+      "replace": "g i d",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "git",
+      "replace": "guite",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "github",
+      "replace": "guite heube",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "hostname",
+      "replace": "haustnaime",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "iptables",
+      "replace": "i p taill beule zeu",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "malware",
+      "replace": "malwaire",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "malwares",
+      "replace": "malwaires",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "namespace",
+      "replace": "naime spèysse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "namespaces",
+      "replace": "naime spèysse izz",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "nginx",
+      "replace": "ainegynèxe",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "payload",
+      "replace": "paye laude",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "pipeline",
+      "replace": "paillepelaillne",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "pipelines",
+      "replace": "paillepelaillne",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "private",
+      "replace": "praillvaite",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "pull",
+      "replace": "poule",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "reuse",
+      "replace": "ryouse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "rootfs",
+      "replace": "route fayle system",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "space",
+      "replace": "spèysse",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "syscall",
+      "replace": "cyscaule",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "todo",
+      "replace": "à faire",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "uid",
+      "replace": "u i d",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "user",
+      "replace": "youzeure",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   },
+   {
+      "source": "uts",
+      "replace": "u t s",
+      "ignoreWordBoundary": false,
+      "matchCase": false,
+      "isEditing": false
+   }
+]

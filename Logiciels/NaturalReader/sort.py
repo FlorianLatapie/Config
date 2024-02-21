@@ -15,7 +15,7 @@ def sort_json(filename):
 
 
 if __name__ == "__main__":
-    if len(sys.argv) != 2:
+    if len(sys.argv) < 2:
         print("Usage: python sort.py <exportPronunciations_XX.json>")
         sys.exit(1)
 
