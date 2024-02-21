@@ -24,7 +24,7 @@
 
 ## [MongoDB](MongoDB/Readme.md)
 
-## [NaturalReader](Logiciels/NaturalReader/Readme.md)
+## [NaturalReader](NaturalReader/Readme.md)
 
 ## [Neofetch](Neofetch/Readme.md)
 
