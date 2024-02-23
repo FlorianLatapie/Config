@@ -27,3 +27,9 @@ Source : [SOLVED: Touchscreen Touches Go To The Wrong Monitor](https://www.urtec
   - Cliquez sur `Configurer...` dans l'encart `Configurer`
   - Suivez les instructions  
   (si l'écran est le bon, touchez-le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)
+
+## Éviter l'auto détéction de la version de l'OS OEM pendant l'installation de Windows
+
+Si un ordinateur possède la clé d'installation Windows dans son BIOS, Windows va tenter d'auto détecter la version
+
+[[Fix] Unable to Select Windows 10 Pro Edition During Clean Installation](https://www.askvg.com/fix-cant-select-windows-10-pro-edition-during-clean-installation/)
