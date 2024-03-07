@@ -18,8 +18,7 @@
 - Paramètres
     - Mise à jour et sécurité
     - Récupération
-    - Démarrage avancé
-    - Cliquer sur `Redémarrer maintenant`
+      - Dans la partie démarrage avancé, cliquez sur `Redémarrer maintenant`
 
 ### Redémarrage depuis Windows 11
 
