@@ -69,6 +69,20 @@ docker volume ls
 docker volume rm $(docker volume ls -q)
 ```
 
+## Lancer une VM Ubuntu
+
+Télécharger et lancer l'image Ubuntu
+
+```bash
+docker run -it --name ubuntu_vm ubuntu /bin/bash
+```
+
+Relancer le conteneur
+
+```bash
+docker start -ai ubuntu_container
+```
+
 ---
 
 ## Commandes `docker compose`
@@ -109,3 +123,4 @@ docker compose up -d <container_name>
 ### Config `docker-compose` communes
 
 #### [LAMP pour développement local](./ComposeExamples/LAMP/Readme.md)
+
