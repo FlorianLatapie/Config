@@ -5,7 +5,9 @@
   - [Changer la taille de la barre des taches Windows 11](#changer-la-taille-de-la-barre-des-taches-windows-11)
   - [Lancer l'Outil Capture d'écran avec la touche "Imprimer l'écran"](#lancer-loutil-capture-décran-avec-la-touche-imprimer-lécran)
   - [Windows Sandbox](#windows-sandbox)
-  - [Se connecter](#se-connecter)
+  - [Se connecter (W10) / Affichage sans fil (W11) (récepteur Miracast)](#se-connecter-w10--affichage-sans-fil-w11-récepteur-miracast)
+  - [Éclairage nocturne](#éclairage-nocturne)
+  - [Changer le niveau d'avertissement UAC (User Account Control)](#changer-le-niveau-davertissement-uac-user-account-control)
 
 ## Bouton `Mettre en veillle prolongée` dans le menu démarrer
 
@@ -15,6 +17,12 @@
   - Choisir l'action des boutons d'alimentation
   - Modifier les paramètres actuellement non disponibles
   - Cocher `Veille prolongée`
+
+Si indisponible, voici la commande 
+
+```cmd
+shutdown -h
+```
 
 ## Changer la taille de la barre des taches Windows 11
 
@@ -47,14 +55,37 @@ hôte. [Source](https://docs.microsoft.com/fr-fr/windows/security/threat-protect
 - Cliquer sur Ok
 - Redémarrer
 
-## Se connecter
+## Se connecter (W10) / Affichage sans fil (W11) (récepteur Miracast)
 
 Si vous travaillez sur un PC Windows et que vous voulez que les applications et le contenu d’un autre appareil
 apparaissent sur l’écran de votre PC, vous pourrez utiliser la mise en miroir de l’écran de votre appareil ou la
 projection sur votre PC. Notez que vous avez besoin d’un appareil qui prend en charge
 Miracast. [Source](https://support.microsoft.com/fr-fr/windows/mise-en-miroir-de-l-%C3%A9cran-et-projection-sur-votre-pc-5af9f371-c704-1c7f-8f0d-fa607551d09c#ID0EBD=Windows_10)
 
-- Chercher dans le menu démarrer `Gérer les fonctionalités facultatives`
-- Cliquer sur `Ajouter une fonctionnalité`
-- Cocher `Affichage sans fil`
-- Cliquer sur `Installer`
+- Paramètres
+- Système
+- Fonctionnalités facultatives
+  - Dans Ajouter une fonctionnalité facultative, cliquez sur `Afficher les fonctionnalités`
+    - Cherchez `Affichage sans fil`, cochez et installez
+
+Utilisation : 
+
+- Dans le receveur Miracast, lancer l'application `Se connecter` (W10) / `Affichage sans fil` (W11)
+- Dans l'autre appareil, faites `Windows + K` et connectez-vous à l'appareil
+  - Il est possible d'autoriser l'entrée clavier/souris depuis le panneau `Connecter`  
+  - Si cet appareil est sous Windows 10, il est possible de modifier la latence depuis la barre affichée en haute de l'écran, cliquez sur l'engrenage puis sur `Le jeu`, sinon, sur Windows 11, changez les paramètres de batterie sur `Performances élevées` pour réduire la latence
+
+## Éclairage nocturne
+
+- Paramètres
+- Système
+  - Écran
+    - Éclairage nocturne / Paramètres d'éclairage nocturne
+      - Intensité : 80
+      - Planifier : Activé, Du coucher au lever du soleil
+
+## Changer le niveau d'avertissement UAC (User Account Control)
+
+- Panneau de configuration
+- Comptes d'utilisateurs
+- Modifier les paramètres de contrôle de compte d'utilisateur
