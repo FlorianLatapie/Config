@@ -1,5 +1,21 @@
 # Python
 
+- [Python](#python)
+  - [Utiliser des fichiers Python comme packages](#utiliser-des-fichiers-python-comme-packages)
+  - [Ternaires](#ternaires)
+  - [Conventions de nommage](#conventions-de-nommage)
+  - [Mettre à jour `pip`](#mettre-à-jour-pip)
+  - [Auto générer le fichier "requirements.txt"](#auto-générer-le-fichier-requirementstxt)
+    - [Ajouter requirements.txt](#ajouter-requirementstxt)
+    - [Utiliser requirements.txt](#utiliser-requirementstxt)
+  - [Créer un venv (Virtual Environment)](#créer-un-venv-virtual-environment)
+    - [Installation](#installation)
+    - [Création et utilisation du venv](#création-et-utilisation-du-venv)
+  - [Installer `python2` et `pip2` (apt)](#installer-python2-et-pip2-apt)
+  - [Convenions Python](#convenions-python)
+    - [Ajouter auteur, license](#ajouter-auteur-license)
+  - [Simple HTTP server](#simple-http-server)
+
 ## Utiliser des fichiers Python comme packages
 
 ```py
@@ -70,7 +86,7 @@ Source : [venv — Creation of virtual environments — Python 3 documentation](
 
 But : utiliser une version différente de python que celui installé sur la machine
 
-### Installation 
+### Installation
 
 ```bash
 pip install virtualenv
@@ -86,7 +102,7 @@ source venv-name/bin/activate
 
 Vous devriez voir à présent (venv-name) dans votre terminal, vous pouvez utiliser python comme d'habitude (`python monfichier.py`)
 
-## Installer `python2` et `pip2`
+## Installer `python2` et `pip2` (apt)
 
 ```bash
 apt install python2 wget 
@@ -94,8 +110,24 @@ wget https://bootstrap.pypa.io/pip/2.7/get-pip.py
 python2 get-pip.py
 ```
 
-## Convenions Python 
+## Convenions Python
 
-### Ajouter auteur, license ... 
+### Ajouter auteur, license
 
 [web.archive.org/web/20111010053227/jaynes.colorado.edu/PythonGuidelines.html#module_formatting](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting)
+
+## Simple HTTP server
+
+[Documentation](https://docs.python.org/fr/3/library/http.server.html) (CLI à lire à partir de la fin de la page)
+
+Default : lance sur localhost:8000 le dossier courant
+
+```bash
+python -m http.server
+```
+
+Options supplémentaires :
+
+```bash
+python -m http.server <port> --bind <ip addr> --directory <directory>
+```
