@@ -7,31 +7,30 @@ if ('serviceWorker' in navigator) {
   .catch((e) => { console.log('Service Worker Registration Failed'); console.error(e); });
 }
 
-
-let deferredPrompt;
-const installBtn = document.getElementById('installBtn');
-const iosText = document.getElementById("iosText");
-
 console.log(localStorage.getItem('a2hs'));
 
 if (localStorage.getItem('a2hs') === 'accepted') {
   installBtn.style.display = 'none';
 }
 
+const installBtn = document.getElementById('installBtn');
+const iosText = document.getElementById("iosText");
 
+var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
+
+if (isIOS) {
+  installBtn.style.display = "none";
+  iosText.style.display = "block";
+} else {
+  installBtn.style.display = "block";
+  iosText.style.display = "none";
+}
+
+let deferredPrompt;
 window.addEventListener('beforeinstallprompt', (e) => {
   e.preventDefault();
   deferredPrompt = e;
   
-  if (/^((?!chrome|android).)*safari/i.test(navigator.userAgent)) {
-    installBtn.style.display = "none";
-    iosText.style.display = "block";
-    console.log("ios");
-  } else {
-    installBtn.style.display = "block";
-    iosText.style.display = "none";
-    console.log("not ios");
-  }
   installBtn.addEventListener('click', () => {
     installBtn.style.display = 'none';
     
@@ -66,10 +65,9 @@ goHomeBtn.addEventListener('click', () => {
 });
 
 goRepoBtn.addEventListener('click', () => {
-  window.location.href = "https://github.com/florianlatapie/config";
+  window.open("https://github.com/florianlatapie/config", "_self");
 });
 
-
 function gotoHome() {
-  window.location.href = "../";
+  window.open("../", "_self");
 }
