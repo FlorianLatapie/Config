@@ -1,5 +1,3 @@
-// Register service worker to control making site work offline
-
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
   .register('./sw.js')
@@ -10,8 +8,6 @@ if ('serviceWorker' in navigator) {
 const installBtn = document.getElementById('installBtn');
 const iosText = document.getElementById("iosText");
 
-console.log(localStorage.getItem('a2hs'));
-
 if (localStorage.getItem('a2hs') === 'accepted') {
   installBtn.style.display = 'none';
 }
@@ -21,11 +17,9 @@ var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream
 if (isIOS) {
   installBtn.style.display = "none";
   iosText.style.display = "block";
-  //alert("ios");
 } else {
   installBtn.style.display = "block";
   iosText.style.display = "none";
-  //alert("not ios");
 }
 
 let deferredPrompt;
@@ -34,15 +28,14 @@ window.addEventListener('beforeinstallprompt', (e) => {
   deferredPrompt = e;
   
   installBtn.addEventListener('click', () => {
-    installBtn.style.display = 'none';
+    installBtn.style.display = "none";
+    iosText.style.display = "none";
     
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
-        console.log('User accepted the A2HS prompt');
         localStorage.setItem('a2hs', 'accepted');
       } else {
-        console.log('User dismissed the A2HS prompt');
         localStorage.setItem('a2hs', 'dismissed');
       }
       deferredPrompt = null;
