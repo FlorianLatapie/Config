@@ -7,14 +7,14 @@ if ('serviceWorker' in navigator) {
   .catch((e) => { console.log('Service Worker Registration Failed'); console.error(e); });
 }
 
+const installBtn = document.getElementById('installBtn');
+const iosText = document.getElementById("iosText");
+
 console.log(localStorage.getItem('a2hs'));
 
 if (localStorage.getItem('a2hs') === 'accepted') {
   installBtn.style.display = 'none';
 }
-
-const installBtn = document.getElementById('installBtn');
-const iosText = document.getElementById("iosText");
 
 var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
