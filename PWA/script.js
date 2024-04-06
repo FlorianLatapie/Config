@@ -21,11 +21,11 @@ var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream
 if (isIOS) {
   installBtn.style.display = "none";
   iosText.style.display = "block";
-  alert("ios");
+  //alert("ios");
 } else {
   installBtn.style.display = "block";
   iosText.style.display = "none";
-  alert("not ios");
+  //alert("not ios");
 }
 
 let deferredPrompt;
