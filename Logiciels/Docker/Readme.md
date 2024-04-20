@@ -21,7 +21,22 @@ systemctl start docker
 Pour tester si tout fonctionne lancez la commande suivante :
 
 ```bash
-docker run hello-world
+sudo docker run hello-world
+```
+
+[Linux post-install](https://docs.docker.com/engine/install/linux-postinstall/)
+
+Vérifiez que le groupe `docker` existe bien :
+
+```bash
+cat /etc/group | grep docker
+```
+
+Ajoutez votre utilisateur au groupe `docker`
+
+```bash
+sudo usermod -aG docker $USER
+newgrp docker
 ```
 
 ## commandes `docker`
