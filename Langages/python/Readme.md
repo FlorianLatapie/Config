@@ -131,3 +131,32 @@ Options supplémentaires :
 ```bash
 python -m http.server <port> --bind <ip addr> --directory <directory>
 ```
+
+## Ajouter les modules Python au path
+
+```cmd
+pip show pip
+```
+
+voir `Location:`
+
+Linux :
+
+`Location: /home/myusername/.local/lib/python3.10/site-packages`  
+Entrez dans le path : `/home/myusername/.local/bin`
+
+```bash
+echo 'export PATH=$PATH:/home/myusername/.local/bin' >> ~/.bashrc
+source ~/.bashrc
+```
+
+Windows : 
+
+`C:\Users\myusername\AppData\Roaming\Python\Python311\site-packages`
+
+Ajoutez la ligne suivante dans le PATH
+
+```txt
+C:\Users\myusername\AppData\Roaming\Python\Python311\Scripts
+```
+
