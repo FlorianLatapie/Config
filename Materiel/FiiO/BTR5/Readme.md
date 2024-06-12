@@ -14,11 +14,6 @@ Si après avoir changé l'EQ depuis l'application ou le menu du BTR5, il devient
 
 ### Solution
 
-    BTR5 crashes
-    Hold down power button for 30 seconds until it turns off
-    Plug it into the PC
-    Hold multifunction button + volume up until DFU appears
-    Flash firmware.
 
 - Téléchargez le firmware le plus récent sur le site de Fiio : [BTR5-Firmware downloadFiiO Community| FiiO forum | FiiO product official communication platform](https://forum.fiio.com/note/showNoteContent.do?id=202105171730270046788&tid=75)
 - Décompressez le fichier téléchargé
