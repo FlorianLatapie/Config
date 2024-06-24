@@ -95,7 +95,7 @@ docker run -it --name ubuntu_vm ubuntu /bin/bash
 Relancer le conteneur
 
 ```bash
-docker start -ai ubuntu_container
+docker start -ai ubuntu_vm
 ```
 
 ---
