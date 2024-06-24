@@ -16,4 +16,6 @@ Vous pouvez installer la PWA du site sur votre appareil : [florianlatapie.github
 
 ## [Matériel](Materiel/Readme.md)
 
+<br/>
+
 [FlorianLatapie/Config sur GitHub](https://github.com/florianlatapie/config)
