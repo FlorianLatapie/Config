@@ -1,6 +1,6 @@
 # Android (Termux)
 
-Dans ce dossier sont contenu les fichiers de configuration pour l'installation de Termux sur Android.
+Dans [ce dossier](https://github.com/FlorianLatapie/Config/tree/main/linux/termux), sont contenus les fichiers de configuration pour l'installation de Termux sur Android.
 
 ## Lancer
 
