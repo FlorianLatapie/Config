@@ -16,7 +16,7 @@ C:\Users\%username%\AppData\Roaming\Microsoft\Windows\SendTo
 Ex :
 
 ```txt
-Convertir en pdf
+Convertir en PDF
 ```
 
 ## Comment l'utiliser
