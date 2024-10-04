@@ -15,6 +15,8 @@
   - [Convenions Python](#convenions-python)
     - [Ajouter auteur, license](#ajouter-auteur-license)
   - [Simple HTTP server](#simple-http-server)
+  - [Ajouter les modules Python au path](#ajouter-les-modules-python-au-path)
+  - [Conventions de documentation](#conventions-de-documentation)
 
 ## Utiliser des fichiers Python comme packages
 
@@ -150,7 +152,7 @@ echo 'export PATH=$PATH:/home/myusername/.local/bin' >> ~/.bashrc
 source ~/.bashrc
 ```
 
-Windows : 
+Windows :
 
 `C:\Users\myusername\AppData\Roaming\Python\Python311\site-packages`
 
@@ -160,3 +162,6 @@ Ajoutez la ligne suivante dans le PATH
 C:\Users\myusername\AppData\Roaming\Python\Python311\Scripts
 ```
 
+## Conventions de documentation
+
+[PEP 257 – Docstring Conventions](https://peps.python.org/pep-0257/)
