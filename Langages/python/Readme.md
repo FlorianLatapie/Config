@@ -94,10 +94,15 @@ But : utiliser une version différente de python que celui installé sur la mach
 pip install virtualenv
 ```
 
+ou
+
+```bash
+sudo apt install python3-virtualenv
+```
+
 ### Création et utilisation du venv
 
 ```bash
-pip install virtualenv
 python3 -m virtualenv -p /usr/bin/python2.7 venv-name
 source venv-name/bin/activate
 ```
