@@ -89,7 +89,7 @@ docker volume rm $(docker volume ls -q)
 Télécharger et lancer l'image Ubuntu
 
 ```bash
-docker run -it --name ubuntu_vm ubuntu /bin/bash
+docker run -it --name ubuntu_vm -p 8000:8000 ubuntu /bin/bash
 ```
 
 Relancer le conteneur
