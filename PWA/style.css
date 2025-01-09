@@ -86,7 +86,8 @@ header {
 
 img {
     height: 100%;
-    aspect-ratio: 1/1;
+    aspect-ratio: 1/1; 
     object-fit: cover;
-    border-radius: 17%
+    border-radius: 17%;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
 }
