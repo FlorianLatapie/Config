@@ -9,6 +9,10 @@
     - [Ajouter requirements.txt](#ajouter-requirementstxt)
     - [Utiliser requirements.txt](#utiliser-requirementstxt)
   - [Créer un venv (Virtual Environment)](#créer-un-venv-virtual-environment)
+  - [Venv](#venv)
+    - [Créer un environnement virtuel et l'activer](#créer-un-environnement-virtuel-et-lactiver)
+  - [Virtualenv](#virtualenv)
+    - [Introduction](#introduction)
     - [Installation](#installation)
     - [Création et utilisation du venv](#création-et-utilisation-du-venv)
   - [Installer `python2` et `pip2` (apt)](#installer-python2-et-pip2-apt)
@@ -76,6 +80,12 @@ pip install pipreqs
 pipreqs /chemin/vers/le/projet --force
 ```
 
+OU
+
+```bash
+pip freeze > requirements.txt
+```
+
 ### Utiliser requirements.txt
 
 ```bash
@@ -85,6 +95,35 @@ pip install -r requirements.txt
 ## Créer un venv (Virtual Environment)
 
 Source : [venv — Creation of virtual environments — Python 3 documentation](https://docs.python.org/3/library/venv.html)
+
+## Venv
+
+- Pour du python 3.3+
+- Intégré à la librairie standard (pas besoin d'installer un package supplémentaire)
+- Utilise la version de python utilisée pour lancer le script
+
+### Créer un environnement virtuel et l'activer
+
+```python
+# Créer un environnement virtuel
+python3 -m venv venv
+# Activer l'environnement virtuel
+source venv/bin/activate
+```
+
+## Virtualenv
+
+### Introduction
+
+- Pour du python2 ou du python3
+- Besoin d'installer le package `virtualenv`
+  - `pip install virtualenv`  
+    ou
+  - `sudo apt install python3-virtualenv`
+- Plus de fonctionnalités que `venv`
+- Permet de spécifier la version dans la commande
+- Peut être "relocalisé" (déplacé)
+- Peut "isoler" l'environnement virtuel (pas de dépendances système) automatiquement pour  `venv`, mais optionnel avec `virtualenv`
 
 But : utiliser une version différente de python que celui installé sur la machine
 
