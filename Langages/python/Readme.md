@@ -9,6 +9,10 @@
     - [Ajouter requirements.txt](#ajouter-requirementstxt)
     - [Utiliser requirements.txt](#utiliser-requirementstxt)
   - [Créer un venv (Virtual Environment)](#créer-un-venv-virtual-environment)
+  - [Venv](#venv)
+    - [Créer un environnement virtuel et l'activer](#créer-un-environnement-virtuel-et-lactiver)
+  - [Virtualenv](#virtualenv)
+    - [Introduction](#introduction)
     - [Installation](#installation)
     - [Création et utilisation du venv](#création-et-utilisation-du-venv)
   - [Installer `python2` et `pip2` (apt)](#installer-python2-et-pip2-apt)
@@ -109,12 +113,17 @@ source venv/bin/activate
 
 ## Virtualenv
 
+### Introduction
+
 - Pour du python2 ou du python3
-- Besoin d'installer le package `virtualenv` (`pip install virtualenv` ou `sudo apt install python3-virtualenv`)
+- Besoin d'installer le package `virtualenv`
+  - `pip install virtualenv`  
+    ou
+  - `sudo apt install python3-virtualenv`
 - Plus de fonctionnalités que `venv`
 - Permet de spécifier la version dans la commande
 - Peut être "relocalisé" (déplacé)
-- Peut "isoler" l'environnement virtuel (pas de dépendances système) (également le cas pour venv, mais avec virtualenv on peut le spécifier)
+- Peut "isoler" l'environnement virtuel (pas de dépendances système) automatiquement pour  `venv`, mais optionnel avec `virtualenv`
 
 But : utiliser une version différente de python que celui installé sur la machine
 
