@@ -8,6 +8,8 @@
 
 ## [Android (Termux)](termux/Readme.md)
 
+## [WSL](wsl/Readme.md)
+
 - [Commandes utiles](CommandesUtiles.md)
 
 <!--
