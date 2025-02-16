@@ -70,6 +70,9 @@
 
 #### Texte rétractable
 
+> [!NOTE]
+> Ne fonctionne pas sur les pages automatiquement générées par github.io
+
 [Source](https://gist.github.com/pierrejoubert73/902cc94d79424356a8d20be2b382e1ab)
 
 ```md
