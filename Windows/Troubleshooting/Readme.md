@@ -22,11 +22,10 @@ Source : [SOLVED: Touchscreen Touches Go To The Wrong Monitor](https://www.urtec
 
 - Panneau de configuration
 - Matériel et audio
-- Paramètres du Tablet PC, catégorie `Options d'affichage`
-  - Choisissez votre écran tactile avec `Affichage :`
-  - Cliquez sur `Configurer...` dans l'encart `Configurer`
-  - Suivez les instructions  
-  (si l'écran est le bon, touchez-le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)
+- Paramètres du Tablet PC,
+  - Dans la catégorie `Options d'affichage` cliquez sur `Configurer...`
+    - Suivez les instructions  
+      (si l'écran est le bon, touchez-le, sinon appuyez sur la touche `Entrée` pour naviguer jusqu'à l'écran voulu)
 
 ## Éviter l'auto détéction de la version de l'OS OEM pendant l'installation de Windows
 
