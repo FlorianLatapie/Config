@@ -20,6 +20,8 @@
 
 ## [IDE JetBrains](IDEJetBrains/Readme.md)
 
+## [LanguageTool](LanguageTool/Readme.md)
+
 ## [Maven](Maven/Readme.md)
 
 ## [MongoDB](MongoDB/Readme.md)
