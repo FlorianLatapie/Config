@@ -24,6 +24,17 @@ sudo apt update
 sudo apt install gh -y
 ```
 
+## Monter les dossiers partagés de VMware
+
+[Source](https://askubuntu.com/questions/29284/how-do-i-mount-shared-folders-in-ubuntu-using-vmware-tools)
+
+```sh
+sudo apt install open-vm-tools open-vm-tools-desktop -y
+sudo mkdir /mnt/hgfs
+sudo vmhgfs-fuse .host:/ /mnt/hgfs/ -o allow_other -o uid=1000
+# sudo chmod 777 /mnt/hgfs
+```
+
 ## Autres fichiers
 
 - [wsl_run.sh](wsl_run.sh) : Ajoute un appel à `update` au lancement de chaque bash
