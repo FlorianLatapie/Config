@@ -24,6 +24,8 @@
 
 ## [Maven](Maven/Readme.md)
 
+## [Microsoft 365 Copilot](MSOffice/Readme.md)
+
 ## [MongoDB](MongoDB/Readme.md)
 
 ## [NaturalReader](NaturalReader/Readme.md)
