@@ -20,9 +20,6 @@ Lancez les commandes
 ```sh
 yes | apt update
 yes | apt upgrade -y
-```
-
-```sh
 apt install git -y
 ```
 
