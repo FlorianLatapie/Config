@@ -35,8 +35,8 @@ apt install python -y
 pip install ipython
 
 ## Ruby (for lolcat)
-echo -e "\nInstalling Ruby\n"
-apt install ruby -y
+# echo -e "\nInstalling Ruby\n"
+# apt install ruby -y
 # uncomment if you want to update ruby to the latest version
 # gem update --system
 
@@ -60,17 +60,23 @@ random_password=$(generate_random_password)
 echo -e "bind-addr: 0.0.0.0:8080\nauth: password\npassword: $random_password\ncert: false" > ~/.config/code-server/config.yaml
 
 # lolcat color the cat command
-echo -e "\nInstalling lolcat\n"
-gem install lolcat
+# echo -e "\nInstalling lolcat\n"
+# gem install lolcat
 
 # GitHub CLI
 echo -e "\nInstalling gh\n"
 apt install gh -y 
 
+# Man 
+echo -e "\nInstalling man\n"
+pkg install man -y 
+
+# Termux API clipboard 
+echo -e "\nInstalling termux-api\n"
+pkg install termux-api -y 
+
 # Termux tools for termux-setup-storage
 echo -e "\nInstalling termux-tools\n"
 pkg install termux-tools -y 
 
-# Man 
-echo -e "\nInstalling man\n"
-pkg install man -y 
+echo "use command 'termux-setup-storage' to create '~/storage' folder"
