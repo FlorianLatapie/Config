@@ -20,8 +20,6 @@ Lancez les commandes
 ```sh
 yes | apt update
 yes | apt upgrade -y
-apt update
-apt upgrade -y
 ```
 
 ```sh
