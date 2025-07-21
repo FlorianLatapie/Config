@@ -78,5 +78,3 @@ pkg install termux-api -y
 # Termux tools for termux-setup-storage
 echo -e "\nInstalling termux-tools\n"
 pkg install termux-tools -y 
-
-echo "use command 'termux-setup-storage' to create '~/storage' folder"
