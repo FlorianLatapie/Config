@@ -6,6 +6,4 @@ cp -r .shortcuts /data/data/com.termux/files/home
 
 source ~/.bashrc
 
-echo -e "Terminé\n"
-
-
+echo -e "\nUse command 'termux-setup-storage' to create '~/storage' folder\nTerminé\n"
