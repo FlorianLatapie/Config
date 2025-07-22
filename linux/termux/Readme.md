@@ -33,3 +33,10 @@ chmod u+x termux_install.sh
 chmod u+x run.sh
 ./run.sh
 ```
+
+Make the shortcuts work
+```
+gh auth login
+mkdir ~/storage/downloads/termux
+cd ~/storage/downloads/termux
+gh repo clone florianlatpie/config
