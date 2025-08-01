@@ -64,3 +64,12 @@ Dans le CMD
 ```bash
 echo %PATH%
 ```
+
+## Obtenir son IP locale de sa carte réseau `^Wi-Fi`
+
+> **Note**  
+> Utilisez la commande dans le Powershell
+
+```pwsh
+(Get-NetIPAddress -AddressFamily IPv4 | Where-Object { $_.InterfaceAlias -match '^Wi-Fi'}).IPAddress
+```
