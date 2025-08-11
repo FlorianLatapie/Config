@@ -77,13 +77,7 @@ pip install pipreqs
 ```
 
 ```bash
-pipreqs /chemin/vers/le/projet --force
-```
-
-OU
-
-```bash
-pip freeze > requirements.txt
+pipreqs . --force
 ```
 
 ### Utiliser requirements.txt
@@ -98,9 +92,9 @@ Source : [venv — Creation of virtual environments — Python 3 documentation](
 
 ## Venv
 
-- Pour du python 3.3+
+- Pour du Python 3.3+
 - Intégré à la librairie standard (pas besoin d'installer un package supplémentaire)
-- Utilise la version de python utilisée pour lancer le script
+- Utilise la version de Python utilisée pour lancer le script
 
 ### Créer un environnement virtuel et l'activer
 
@@ -115,7 +109,7 @@ source venv/bin/activate
 
 ### Introduction
 
-- Pour du python2 ou du python3
+- Pour du `python2` ou du `python3`
 - Besoin d'installer le package `virtualenv`
   - `pip install virtualenv`  
     ou
@@ -125,7 +119,7 @@ source venv/bin/activate
 - Peut être "relocalisé" (déplacé)
 - Peut "isoler" l'environnement virtuel (pas de dépendances système) automatiquement pour  `venv`, mais optionnel avec `virtualenv`
 
-But : utiliser une version différente de python que celui installé sur la machine
+But : utiliser une version différente de Python que celui installé sur la machine
 
 ### Installation
 
@@ -146,7 +140,7 @@ python3 -m virtualenv -p /usr/bin/python2.7 venv-name
 source venv-name/bin/activate
 ```
 
-Vous devriez voir à présent (venv-name) dans votre terminal, vous pouvez utiliser python comme d'habitude (`python monfichier.py`)
+Vous devriez voir à présent (venv-name) dans votre terminal, vous pouvez utiliser Python comme d'habitude (`python monfichier.py`)
 
 ## Installer `python2` et `pip2` (apt)
 
