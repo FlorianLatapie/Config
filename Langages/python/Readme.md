@@ -11,6 +11,8 @@
   - [Créer un venv (Virtual Environment)](#créer-un-venv-virtual-environment)
   - [Venv](#venv)
     - [Créer un environnement virtuel et l'activer](#créer-un-environnement-virtuel-et-lactiver)
+    - [Posix](#posix)
+    - [Windows](#windows)
   - [Virtualenv](#virtualenv)
     - [Introduction](#introduction)
     - [Installation](#installation)
@@ -94,15 +96,23 @@ Source : [venv — Creation of virtual environments — Python 3 documentation](
 
 - Pour du Python 3.3+
 - Intégré à la librairie standard (pas besoin d'installer un package supplémentaire)
-- Utilise la version de Python utilisée pour lancer le script
+
+Source : [venv — Creation of virtual environments — Python 3.x.y documentation](https://docs.python.org/3/library/venv.html)
 
 ### Créer un environnement virtuel et l'activer
 
-```python
-# Créer un environnement virtuel
+### Posix
+
+```bash
 python3 -m venv venv
-# Activer l'environnement virtuel
 source venv/bin/activate
+```
+
+### Windows
+
+```cmd
+python -m venv venv
+venv\Scripts\Activate.ps1
 ```
 
 ## Virtualenv
