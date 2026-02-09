@@ -1,9 +1,4 @@
 @import url('https://fonts.cdnfonts.com/css/sf-pro-display');
-* {
-    font-family: 'SF Pro Text', 'Roboto', sans-serif;
-    margin: 0;
-    padding: 0;
-}
 
 main {
     margin: 0 2vw;
@@ -22,24 +17,9 @@ h1 {
     text-align: center;
 }
 
-button {
-    text-align: center;
+.btn-common {
     font-size: 16px;     
-}
-
-.apple-style-button {
-    display: inline-block;
-    padding: 5px 16px;
     text-align: center;
-    text-decoration: none;
-    border-radius: 100vh;
-    background-color: #e9e9eb;
-    color: #2374f5;
-    border: none;
-}
-
-.apple-style-button:hover {
-    background-color: #dcdce0;
 }
 
 .button_container {
@@ -51,15 +31,6 @@ button {
 
 * {
     animation: fadeIn ease 400ms;
-}
-
-@keyframes fadeIn {
-    0% {
-        opacity:0;
-    }
-    100% {
-        opacity:1;
-    }
 }
     
 #iosText {
@@ -82,12 +53,4 @@ header {
     flex-direction: row;
     align-items: center;
     column-gap: 1.5vh;
-}
-
-img {
-    height: 100%;
-    aspect-ratio: 1/1; 
-    object-fit: cover;
-    border-radius: 17%;
-    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.9);
 }
