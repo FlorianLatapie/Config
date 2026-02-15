@@ -13,22 +13,17 @@ if ('serviceWorker' in navigator) {
   .catch((e) => { console.log('Service Worker Registration Failed'); console.error(e); });
 }
 
+// Determine if install button should be shown
+
 const installBtn = document.getElementById('installBtn');
 const iosText = document.getElementById("iosText");
 
 var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
-if (isIOS) {
-  installBtn.style.display = "none";
-  iosText.style.display = "block";
-} else {
-  if (storage.getItem('a2hs') !== 'accepted') {
-    installBtn.style.display = "block";
-  } else {
-    installBtn.style.display = "none";
-  }
-  iosText.style.display = "none";
-}
+const shouldShowInstallBtn = !isIOS && storage.getItem('a2hs') !== 'accepted';
+
+installBtn.style.display = shouldShowInstallBtn ? "block" : "none";
+iosText.style.display = isIOS ? "block" : "none";
 
 let deferredPrompt;
 window.addEventListener('beforeinstallprompt', (e) => {
