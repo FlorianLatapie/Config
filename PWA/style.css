@@ -6,15 +6,16 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 70vh;
+    min-height: 70vh;
 }
 
 main > * {
     margin: 16px 0;
 }
 
-h1 {
+h2 {
     text-align: center;
+    padding-bottom: 16px;
 }
 
 .btn-common {
@@ -26,6 +27,26 @@ h1 {
     display: flex;
     flex-direction: column; 
     row-gap: 16px;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    flex: 1;
+    width: 100%;
+}
+
+.reset-link {
+    font-size: 12px;
+    color: #a0a4aa;
+    text-decoration: none;
+    margin: 12px 0 6px;
+}
+
+.reset-link:hover {
+    text-decoration: underline;
 }
 
 
