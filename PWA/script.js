@@ -1,3 +1,11 @@
+const storage = new LocalStorageWrapper('config');
+
+const legacya2hsValue = localStorage.getItem('a2hs');
+if (legacya2hsValue) {
+  storage.setItem('a2hs', legacya2hsValue);
+  localStorage.removeItem('a2hs');
+}
+
 if ('serviceWorker' in navigator) {
   navigator.serviceWorker
   .register('./sw.js')
@@ -8,7 +16,7 @@ if ('serviceWorker' in navigator) {
 const installBtn = document.getElementById('installBtn');
 const iosText = document.getElementById("iosText");
 
-if (localStorage.getItem('a2hs') === 'accepted') {
+if (storage.getItem('a2hs') === 'accepted') {
   installBtn.style.display = 'none';
 }
 
@@ -34,9 +42,9 @@ window.addEventListener('beforeinstallprompt', (e) => {
     deferredPrompt.prompt();
     deferredPrompt.userChoice.then((choiceResult) => {
       if (choiceResult.outcome === 'accepted') {
-        localStorage.setItem('a2hs', 'accepted');
+        storage.setItem('a2hs', 'accepted');
       } else {
-        localStorage.setItem('a2hs', 'dismissed');
+        storage.setItem('a2hs', 'dismissed');
       }
       deferredPrompt = null;
     });
