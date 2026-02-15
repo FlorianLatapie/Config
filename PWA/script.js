@@ -16,17 +16,17 @@ if ('serviceWorker' in navigator) {
 const installBtn = document.getElementById('installBtn');
 const iosText = document.getElementById("iosText");
 
-if (storage.getItem('a2hs') === 'accepted') {
-  installBtn.style.display = 'none';
-}
-
 var isIOS = /Mac|iPad|iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
 
 if (isIOS) {
   installBtn.style.display = "none";
   iosText.style.display = "block";
 } else {
-  installBtn.style.display = "block";
+  if (storage.getItem('a2hs') !== 'accepted') {
+    installBtn.style.display = "block";
+  } else {
+    installBtn.style.display = "none";
+  }
   iosText.style.display = "none";
 }
 
