@@ -1,0 +1,21 @@
+{
+    "workbench.colorTheme": "Default Light+",
+    "git.enableSmartCommit": true,
+    "files.autoSave": "afterDelay",
+
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true
+    },
+
+    // https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree
+    "todo-tree.general.tags": [
+        "TODO",
+        "[ ]",
+        "- []",
+        "- [ ]",
+        "todo"
+    ],
+    "todo-tree.regex.regex": "($TAGS)"   
+}

@@ -20,3 +20,7 @@ Lancer Visual Studio Code en ouvrant le dossier courant : `code .`
 ## Extensions Visual Studio Code
 
 [Visual Studio Code](./VSCodeExtensions.md)
+
+## settings.json
+
+[settings.json](./settings.json)
