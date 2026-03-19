@@ -6,6 +6,8 @@ Vous pouvez installer la PWA du site sur votre appareil : [florianlatapie.github
 
 ## [Windows](Windows/Readme.md)
 
+## [MacOS](MacOS/Readme.md)
+
 ## [Android](Android/Readme.md)
 
 ## [iOS](iOS/Readme.md)
