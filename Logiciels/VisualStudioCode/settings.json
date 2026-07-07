@@ -17,5 +17,18 @@
         "- [ ]",
         "todo"
     ],
-    "todo-tree.regex.regex": "($TAGS)"   
+    "todo-tree.regex.regex": "($TAGS)",
+    "todo-tree.highlights.foregroundColourScheme": [
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black",
+        "black"
+    ],
+    "todo-tree.filtering.excludeGlobs": [
+        "**/node_modules/*/**",
+        "**/.github/agents/*/**"
+    ]
 }
