@@ -3,5 +3,5 @@
 ## Garder l'odinateur éveillé de manière indéfinie
 
 ```bash
-caffeinate
+caffeinate -dimsu
 ```
