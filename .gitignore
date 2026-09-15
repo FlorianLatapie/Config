@@ -1,3 +1,4 @@
 .idea/*
 *.lnk
 .obsidian/*
+**/.DS_Store
