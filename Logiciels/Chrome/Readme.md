@@ -4,6 +4,13 @@
 
 ## Autre
 
+### Supprimer une suggestion dans la barre d'adresse 
+
+1. Cliquez ou ouvrir la barre d'adresse (`Ctrl + L` ou `Cmd + L` sur MacOS)
+2. Commencez à taper le nom du site que vous souhaitez supprimer
+3. Utilisez les flèches du clavier pour sélectionner le site à supprimer
+4. Appuyez sur `Shift + Suppr` (ou `Shift + Fn + Suppr` sur MacOS) pour supprimer la suggestion
+
 ### Ajouter une chaine de caractères à la fin d'un lien
 
 Source : [Bookmarklet to append a string to the end of a URL par cazepeda-zz](https://gist.github.com/cazepeda-zz/3967172)
